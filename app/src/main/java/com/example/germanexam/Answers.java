@@ -13,8 +13,19 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.google.android.gms.ads.AdError;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.FullScreenContentCallback;
+import com.google.android.gms.ads.LoadAdError;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
+import com.google.android.gms.ads.interstitial.InterstitialAd;
+import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 
 import java.io.IOException;
 import java.util.Locale;
@@ -65,10 +76,16 @@ public class Answers extends AppCompatActivity {
 
     String[] times = new String[4];
 
+    private InterstitialAd mInterstitialAd;
+    private int state = 0;
+
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.answers);
+
+        loadAd();
+
         playButton1 = findViewById(R.id.answer_play1);
         playButton2 = findViewById(R.id.answer_play2);
         playButton3 = findViewById(R.id.answer_play3);
@@ -311,9 +328,14 @@ public class Answers extends AppCompatActivity {
                 SharedPreferences.Editor editor = sharedPreferences.edit();
                 editor.putBoolean(VARIANT + variantNumber, true);
                 editor.apply();
-                Intent intent = new Intent(Answers.this, Share.class);
-                startActivity(intent);
-                finish();
+                if (mInterstitialAd != null) {
+                    state = 3;
+                    mInterstitialAd.show(Answers.this);
+                } else {
+                    Intent intent = new Intent(Answers.this, Share.class);
+                    startActivity(intent);
+                    finish();
+                }
             }
         });
     }
@@ -387,9 +409,14 @@ public class Answers extends AppCompatActivity {
         builder.setTitle(R.string.dialog_window_title);
         builder.setNegativeButton(R.string.menu, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
-                Intent intent = new Intent(Answers.this, Menu.class);
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                startActivity(intent);
+                state = 2;
+                if (mInterstitialAd != null) {
+                    mInterstitialAd.show(Answers.this);
+                } else {
+                    Intent intent = new Intent(Answers.this, Menu.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                    startActivity(intent);
+                }
             }
         });
         builder.setNeutralButton(R.string.desktop, new DialogInterface.OnClickListener() {
@@ -399,9 +426,14 @@ public class Answers extends AppCompatActivity {
         });
         builder.setPositiveButton(R.string.variants_menu, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
-                Intent intent = new Intent(Answers.this, Variants.class);
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                startActivity(intent);
+                state = 1;
+                if (mInterstitialAd != null) {
+                    mInterstitialAd.show(Answers.this);
+                } else {
+                    Intent intent = new Intent(Answers.this, Variants.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                    startActivity(intent);
+                }
             }
         });
         AlertDialog dialog = builder.create();
@@ -479,5 +511,64 @@ public class Answers extends AppCompatActivity {
         int seconds = (int) (timeLeft / 1000) % 60;
 
         return String.format(Locale.getDefault(), "-%02d:%02d", minutes, seconds);
+    }
+
+    private void loadAd() {
+        MobileAds.initialize(this, new OnInitializationCompleteListener() {
+            @Override
+            public void onInitializationComplete(InitializationStatus initializationStatus) {
+            }
+        });
+
+        AdRequest adRequest = new AdRequest.Builder().build();
+
+        InterstitialAd.load(this,"ca-app-pub-4327528430123865/7721312778", adRequest, new InterstitialAdLoadCallback() {
+            @Override
+            public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
+                mInterstitialAd = interstitialAd;
+                mInterstitialAd.setFullScreenContentCallback(new FullScreenContentCallback(){
+                    @Override
+                    public void onAdDismissedFullScreenContent() {
+                        switch (state) {
+                            case 1:
+                                Intent intent1 = new Intent(Answers.this, Variants.class);
+                                intent1.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                                startActivity(intent1);
+                                countDownTimer.cancel();
+                                break;
+                            case 2:
+                                Intent intent2 = new Intent(Answers.this, Menu.class);
+                                intent2.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                                startActivity(intent2);
+                                countDownTimer.cancel();
+                                break;
+                            case 3:
+                                Intent intent3 = new Intent(Answers.this, Share.class);
+                                startActivity(intent3);
+                                finish();
+                            default:
+                                break;
+                        }
+                    }
+
+                    @Override
+                    public void onAdFailedToShowFullScreenContent(AdError adError) {
+                        Log.d("TAG", "The ad failed to show.");
+                    }
+
+                    @Override
+                    public void onAdShowedFullScreenContent() {
+                        mInterstitialAd = null;
+                        Log.d("TAG", "The ad was shown.");
+                    }
+                });
+            }
+
+            @Override
+            public void onAdFailedToLoad(@NonNull LoadAdError loadAdError) {
+                Log.i("onAdFailedToLoad", loadAdError.getMessage());
+                mInterstitialAd = null;
+            }
+        });
     }
 }
