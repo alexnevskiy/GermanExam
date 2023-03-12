@@ -156,6 +156,7 @@ public class MicrophoneTest extends AppCompatActivity {
 
     private void stopRecording() {
         recorder.stop();
+        recorder.reset();
         recorder.release();
         recorder = null;
         Log.i("Recording", "Recording stopped, file path: " + fileName);
@@ -176,6 +177,7 @@ public class MicrophoneTest extends AppCompatActivity {
     }
 
     private void stopPlaying() {
+        player.reset();
         player.release();
         player = null;
     }

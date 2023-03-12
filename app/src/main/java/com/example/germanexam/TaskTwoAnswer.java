@@ -1,11 +1,14 @@
 package com.example.germanexam;
 
 import android.Manifest;
+import android.content.ContentResolver;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
+import android.media.MediaPlayer;
 import android.media.MediaRecorder;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.util.Log;
@@ -35,9 +38,12 @@ public class TaskTwoAnswer extends AppCompatActivity {
     final String TASK2QUESTION2 = "Task2Question2";
     final String TASK2QUESTION3 = "Task2Question3";
     final String TASK2QUESTION4 = "Task2Question4";
-    final String TASK2QUESTION5 = "Task2Question5";
     final String TASK2PICTURETEXT = "Task2PictureText";
     final String RESTART = "Restart";
+
+    private final String RESOURCE_PATH = ContentResolver.SCHEME_ANDROID_RESOURCE + "://";
+
+    final String beepFilename = "task2_beep";
 
     private final int REQUEST_RECORD_AUDIO_PERMISSION = 200;
     private String fileName = null;
@@ -47,10 +53,11 @@ public class TaskTwoAnswer extends AppCompatActivity {
     private String [] permissions = {Manifest.permission.RECORD_AUDIO};
 
     private MediaRecorder recorder = null;
+    private MediaPlayer player = null;
 
     SharedPreferences sharedPreferences;
 
-    long timeLeft = 100000;
+    long timeLeft = 80000;
     int counter = 0;
     CountDownTimer countDownTimer;
 
@@ -77,6 +84,7 @@ public class TaskTwoAnswer extends AppCompatActivity {
         final TextView timeRemaining = findViewById(R.id.time_remaining);
         final ProgressBar timeline = findViewById(R.id.timeline);
         final TextView questionText = findViewById(R.id.task2_text);
+        timeline.setMax((int) (timeLeft / 1000));
 
         TextView task2PictureTextView = findViewById(R.id.task2_title_image);
         ImageView task2ImageView = findViewById(R.id.task2_image);
@@ -86,12 +94,9 @@ public class TaskTwoAnswer extends AppCompatActivity {
         final String task2Question2 = sharedPreferences.getString(TASK2QUESTION2, "");
         final String task2Question3 = sharedPreferences.getString(TASK2QUESTION3, "");
         final String task2Question4 = sharedPreferences.getString(TASK2QUESTION4, "");
-        final String task2Question5 = sharedPreferences.getString(TASK2QUESTION5, "");
         String task2Image = sharedPreferences.getString(TASK2PICTURE, "");
         int pictureId = getResources().getIdentifier(task2Image, "drawable", getPackageName());
         task2PictureTextView.setText(task2Text);
-
-        task2PictureTextView.setVisibility(View.INVISIBLE);  //  Временно
 
         task2ImageView.setImageDrawable(getResources().getDrawable(pictureId));
 
@@ -105,16 +110,16 @@ public class TaskTwoAnswer extends AppCompatActivity {
                         questionText.setText("Frage 1.\n" + task2Question1);
                         break;
                     case 20:
+                        startPlaying();
                         questionText.setText("Frage 2.\n" + task2Question2);
                         break;
                     case 40:
+                        startPlaying();
                         questionText.setText("Frage 3.\n" + task2Question3);
                         break;
                     case 60:
+                        startPlaying();
                         questionText.setText("Frage 4.\n" + task2Question4);
-                        break;
-                    case 80:
-                        questionText.setText("Frage 5.\n" + task2Question5);
                         break;
                 }
                 counter++;
@@ -152,6 +157,7 @@ public class TaskTwoAnswer extends AppCompatActivity {
         if (isWorking) {
             countDownTimer.cancel();
             stopRecording();
+            stopPlaying();
 
             deleteFiles();
 
@@ -171,12 +177,12 @@ public class TaskTwoAnswer extends AppCompatActivity {
         loadData(TASK1);
         File file1 = new File(fileName);
         boolean deleted1 = file1.delete();
-        Log.i("TaskFourAnswer", "Audio1 is deleting:" + deleted1);
+        Log.i("TaskTwoAnswer", "Audio1 is deleting:" + deleted1);
 
         loadData(TASK2);
         File file2 = new File(fileName);
         boolean deleted2 = file2.delete();
-        Log.i("TaskFourAnswer", "Audio2 is deleting:" + deleted2);
+        Log.i("TaskTwoAnswer", "Audio2 is deleting:" + deleted2);
     }
 
     @Override
@@ -186,6 +192,7 @@ public class TaskTwoAnswer extends AppCompatActivity {
         builder.setNegativeButton(R.string.menu, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
                 stopRecording();
+                stopPlaying();
                 Intent intent = new Intent(TaskTwoAnswer.this, Menu.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(intent);
@@ -197,6 +204,7 @@ public class TaskTwoAnswer extends AppCompatActivity {
         builder.setNeutralButton(R.string.desktop, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
                 stopRecording();
+                stopPlaying();
                 countDownTimer.cancel();
                 deleteFiles();
                 isWorking = false;
@@ -206,6 +214,7 @@ public class TaskTwoAnswer extends AppCompatActivity {
         builder.setPositiveButton(R.string.variants_menu, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
                 stopRecording();
+                stopPlaying();
                 Intent intent = new Intent(TaskTwoAnswer.this, Variants.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(intent);
@@ -242,9 +251,30 @@ public class TaskTwoAnswer extends AppCompatActivity {
         } catch (RuntimeException stopException) {
             stopException.printStackTrace();
         }
+        recorder.reset();
         recorder.release();
         recorder = null;
         Log.i("Recording", "Recording stopped, file path: " + fileName);
+    }
+
+    private void startPlaying() {
+        String audioPath = RESOURCE_PATH + getPackageName() + "/raw/" + beepFilename;
+        Uri audioUri = Uri.parse(audioPath);
+
+        player = new MediaPlayer();
+        try {
+            player.setDataSource(getApplicationContext(), audioUri);
+            player.prepare();
+            player.start();
+        } catch (IOException e) {
+            Log.e("startPlaying()", "prepare() failed");
+        }
+    }
+
+    private void stopPlaying() {
+        player.reset();
+        player.release();
+        player = null;
     }
 
     private void saveFilename() {

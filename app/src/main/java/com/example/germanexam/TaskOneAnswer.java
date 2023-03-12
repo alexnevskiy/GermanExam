@@ -69,6 +69,7 @@ public class TaskOneAnswer extends AppCompatActivity {
         setContentView(R.layout.task1_answer);
         final TextView timeRemaining = findViewById(R.id.time_remaining);
         final ProgressBar timeline = findViewById(R.id.timeline);
+        timeline.setMax((int) (timeLeft / 1000));
         Button buttonEndAnswer = findViewById(R.id.end_answer_task1);
 
         TextView textView = findViewById(R.id.text1);
@@ -226,6 +227,7 @@ public class TaskOneAnswer extends AppCompatActivity {
         } catch (RuntimeException stopException) {
             stopException.printStackTrace();
         }
+        recorder.reset();
         recorder.release();
         recorder = null;
         Log.i("Recording", "Recording stopped, file path: " + fileName);

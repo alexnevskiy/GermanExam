@@ -17,7 +17,11 @@ import java.util.Locale;
 public class Ready extends AppCompatActivity {
     final String TASK1 = "Task1";
     final String TASK2 = "Task2";
-    final String TASK3 = "Task3";
+    final String TASK3ANSWER1 = "Task3Answer1";
+    final String TASK3ANSWER2 = "Task3Answer2";
+    final String TASK3ANSWER3 = "Task3Answer3";
+    final String TASK3ANSWER4 = "Task3Answer4";
+    final String TASK3ANSWER5 = "Task3Answer5";
     final String TASK4 = "Task4";
     final String RESTART = "Restart";
 
@@ -70,13 +74,7 @@ public class Ready extends AppCompatActivity {
                 preparationText.setText(R.string.prep_ans_task3);
                 if (myIntent.getStringExtra("answer").equals("yes")) {
                     upperText.setText(R.string.ready_upper_answer_text);
-                    if (myIntent.getStringExtra("photos").equals("all")) {
-                        intent = new Intent(Ready.this, TaskThreeAnswerAllPhotos.class);
-                    } else {
-                        intent = new Intent(Ready.this, TaskThreeAnswer.class);
-                        int photoNumber = myIntent.getIntExtra("photo", 1);
-                        intent.putExtra("photo", photoNumber);
-                    }
+                    intent = new Intent(Ready.this, TaskThreeAnswer.class);
                 } else {
                     upperText.setText(R.string.ready_upper_next_text);
                     intent = new Intent(Ready.this, TaskThree.class);
@@ -157,7 +155,11 @@ public class Ready extends AppCompatActivity {
             case "4":
                 deleteTask(TASK1);
                 deleteTask(TASK2);
-                deleteTask(TASK3);
+                deleteTask(TASK3ANSWER1);
+                deleteTask(TASK3ANSWER2);
+                deleteTask(TASK3ANSWER3);
+                deleteTask(TASK3ANSWER4);
+                deleteTask(TASK3ANSWER5);
                 break;
         }
     }

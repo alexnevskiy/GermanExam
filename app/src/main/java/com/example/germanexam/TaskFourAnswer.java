@@ -49,7 +49,7 @@ public class TaskFourAnswer extends AppCompatActivity {
 
     SharedPreferences sharedPreferences;
 
-    long timeLeft = 120000;
+    long timeLeft = 180000;
     int counter = 0;
     CountDownTimer countDownTimer;
 
@@ -76,6 +76,7 @@ public class TaskFourAnswer extends AppCompatActivity {
         final TextView timeRemaining = findViewById(R.id.time_remaining);
         final ProgressBar timeline = findViewById(R.id.timeline);
         Button buttonEndAnswer = findViewById(R.id.end_answer_task4);
+        timeline.setMax((int) (timeLeft / 1000));
 
         TextView task4CompareView = findViewById(R.id.task4_compare);
         ImageView task4ImageView1 = findViewById(R.id.task4_photo1);
@@ -250,6 +251,7 @@ public class TaskFourAnswer extends AppCompatActivity {
         } catch (RuntimeException stopException) {
             stopException.printStackTrace();
         }
+        recorder.reset();
         recorder.release();
         recorder = null;
         Log.i("Recording", "Recording stopped, file path: " + fileName);

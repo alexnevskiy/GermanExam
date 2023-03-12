@@ -122,16 +122,6 @@ public class JsonParser {
         return task2Question4;
     }
 
-    public String getTask2Question5() {
-        String task2Question5 = null;
-        try {
-            task2Question5 =  task2.getString("question5");
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
-        return task2Question5;
-    }
-
     public String getTask2PictureText() {
         String task2PictureText = null;
         try {
@@ -142,44 +132,84 @@ public class JsonParser {
         return task2PictureText;
     }
 
-    public String getTask3Questions() {
-        String task3Questions = null;
+    public String getTask3AudioIntroduction() {
+        String task3AudioIntroduction = null;
         try {
-            task3Questions =  task3.getString("questions");
+            task3AudioIntroduction =  task3.getString("audioIntroduction");
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        return task3Questions;
+        return task3AudioIntroduction;
     }
 
-    public String getTask3Picture1() {
-        String task3Picture1 = null;
+    public String getTask3AudioQuestion1() {
+        String task3AudioQuestion1 = null;
         try {
-            task3Picture1 =  task3.getString("picture1");
+            task3AudioQuestion1 =  task3.getString("audioQuestion1");
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        return task3Picture1;
+        return task3AudioQuestion1;
     }
 
-    public String getTask3Picture2() {
-        String task3Picture2 = null;
+    public String getTask3AudioQuestion2() {
+        String task3AudioQuestion2 = null;
         try {
-            task3Picture2 =  task3.getString("picture2");
+            task3AudioQuestion2 =  task3.getString("audioQuestion2");
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        return task3Picture2;
+        return task3AudioQuestion2;
     }
 
-    public String getTask3Picture3() {
-        String task3Picture3 = null;
+    public String getTask3AudioQuestion3() {
+        String task3AudioQuestion3 = null;
         try {
-            task3Picture3 =  task3.getString("picture3");
+            task3AudioQuestion3 =  task3.getString("audioQuestion3");
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        return task3Picture3;
+        return task3AudioQuestion3;
+    }
+
+    public String getTask3AudioQuestion4() {
+        String task3AudioQuestion4 = null;
+        try {
+            task3AudioQuestion4 =  task3.getString("audioQuestion4");
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return task3AudioQuestion4;
+    }
+
+    public String getTask3AudioQuestion5() {
+        String task3AudioQuestion5 = null;
+        try {
+            task3AudioQuestion5 =  task3.getString("audioQuestion5");
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return task3AudioQuestion5;
+    }
+
+    public String getTask3AudioEnding() {
+        String task3AudioEnding = null;
+        try {
+            task3AudioEnding =  task3.getString("audioEnding");
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return task3AudioEnding;
+    }
+
+    public String getTask4Title() {
+        String task4Title = null;
+        try {
+            task4Title =  task4.getString("title");
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return task4Title;
     }
 
     public String getTask4Questions() {

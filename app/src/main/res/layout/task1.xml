@@ -119,7 +119,8 @@
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="5">
+            android:layout_weight="5"
+            android:fillViewport="true">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -138,10 +139,8 @@
                     android:layout_weight="25"
                     android:fontFamily="@font/calibri"
                     android:text="@string/text1"
-                    android:maxLines="30"
-                    android:minLines="24"
                     app:autoSizeMaxTextSize="70sp"
-                    app:autoSizeMinTextSize="18sp"
+                    app:autoSizeMinTextSize="10sp"
                     app:autoSizeTextType="uniform"
                     android:textColor="@android:color/black"
                     android:background="@android:color/white"

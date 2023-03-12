@@ -31,6 +31,7 @@ public class TaskOne extends AppCompatActivity {
         setContentView(R.layout.task1);
         final TextView timeRemaining = findViewById(R.id.time_remaining);
         final ProgressBar timeline = findViewById(R.id.timeline);
+        timeline.setMax((int) (timeLeft / 1000));
 
         TextView textView = findViewById(R.id.text1);
         sharedPreferences = getSharedPreferences("StudentData", MODE_PRIVATE);

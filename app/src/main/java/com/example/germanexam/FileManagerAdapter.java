@@ -461,6 +461,7 @@ public class FileManagerAdapter extends RecyclerView.Adapter<FileManagerAdapter.
     }
 
     void stopPlaying() {
+        player.reset();
         player.release();
         player = null;
     }

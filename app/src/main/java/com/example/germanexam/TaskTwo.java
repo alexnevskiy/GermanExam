@@ -41,6 +41,7 @@ public class TaskTwo extends AppCompatActivity {
         setContentView(R.layout.task2);
         final TextView timeRemaining = findViewById(R.id.time_remaining);
         final ProgressBar timeline = findViewById(R.id.timeline);
+        timeline.setMax((int) (timeLeft / 1000));
 
         TextView task2TextView = findViewById(R.id.task2_text);
         TextView task2QuestionsView = findViewById(R.id.task2_questions);
@@ -55,8 +56,6 @@ public class TaskTwo extends AppCompatActivity {
         task2TextView.setText("Aufgabe 2. Sehen Sie sich folgende Anzeige an.\n" + task2Text);
         task2QuestionsView.setText(task2Questions);
         task2PictureTextView.setText(task2PictureText);
-
-        task2PictureTextView.setVisibility(View.INVISIBLE);  //  Временно
 
         task2ImageView.setImageDrawable(getResources().getDrawable(pictureId));
 
@@ -117,7 +116,7 @@ public class TaskTwo extends AppCompatActivity {
         loadData(TASK1);
         File file1 = new File(fileName);
         boolean deleted1 = file1.delete();
-        Log.i("TaskFourAnswer", "Audio1 is deleting:" + deleted1);
+        Log.i("TaskTwo", "Audio1 is deleting:" + deleted1);
     }
 
     @Override

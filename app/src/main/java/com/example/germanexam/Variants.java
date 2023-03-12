@@ -67,16 +67,24 @@ public class Variants extends AppCompatActivity {
         JsonParser jsonParser = new JsonParser(json);
         final int variantsNumber = jsonParser.getVariantsNumber();
 
-        int rows = 5;
-        int columns = variantsNumber / 5;
+        int rows = variantsNumber / 5;
+        int columns = 5;
+        int remainder = variantsNumber % 5;
+        if (remainder != 0) {
+            rows++;
+        }
 
         TableLayout tableLayout = findViewById(R.id.variants_layout);
+        boolean lastRow = false;
 
         for (int i = 0; i < rows; i++) {
             TableRow tableRow = new TableRow(this);
             TableRow.LayoutParams paramsTable = new TableRow.LayoutParams(
                     TableRow.LayoutParams.MATCH_PARENT, TableRow.LayoutParams.WRAP_CONTENT);
             tableRow.setLayoutParams(paramsTable);
+            if (i == rows - 1) {
+                lastRow = true;
+            }
 
             for (int j = 0; j < columns; j++) {
                 TableRow.LayoutParams paramsButton = new TableRow.LayoutParams(
@@ -88,8 +96,8 @@ public class Variants extends AppCompatActivity {
                 paramsButton.bottomMargin = 20;
                 final Button button = new Button(this);
                 button.setLayoutParams(paramsButton);
-                int number = j + 1 + (i * rows);
-                button.setText("" + number);
+                int number = j + 1 + (i * columns);
+                button.setText(String.valueOf(number));
                 button.setId(number);
                 boolean isFinished = sharedPreferences.getBoolean(VARIANT + number, false);
                 if (isFinished) {
@@ -99,6 +107,11 @@ public class Variants extends AppCompatActivity {
                 }
                 button.setTextSize(30);
                 button.setTextColor(Color.parseColor("#FFFFFF"));
+                if (lastRow) {
+                    if (j >= remainder && remainder != 0) {
+                        button.setVisibility(View.INVISIBLE);
+                    }
+                }
                 button.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {

@@ -40,7 +40,6 @@ public class EspressoTest {
 
     private void settingsCheck() {
         onView(withId(R.id.microphone_test)).check(matches(isDisplayed()));
-        onView(withId(R.id.change_interface)).check(matches(isDisplayed()));
         onView(withId(R.id.about_application)).check(matches(isDisplayed()));
         onView(withId(R.id.settings)).check(matches(isDisplayed()));
         onView(withId(R.id.student_name)).check(matches(isDisplayed()));
@@ -62,7 +61,6 @@ public class EspressoTest {
         onView(allOf(withId(R.id.Task1), withText("Aufgabe 1"))).check(matches(isDisplayed()));
         onView(withId(R.id.clock)).check(matches(isDisplayed()));
         onView(withId(R.id.prep_ans)).check(matches(isDisplayed()));
-        onView(allOf(withId(R.id.task1_logo), withText("1"))).check(matches(isDisplayed()));
         onView(withId(R.id.task1_text)).check(matches(isDisplayed()));
         onView(withId(R.id.text1)).check(matches(isDisplayed()));
         onView(withId(R.id.preparation)).check(matches(isDisplayed()));

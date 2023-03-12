@@ -6,24 +6,27 @@
                 "text" : "Karate ist ein japanisches Wort und heißt übersetzt \"leere Hand\". Das beschreibt diese Sportart sehr gut. Es geht um Selbstverteidigung und Nahkampf ohne Waffen.\nAngst, beim Karate einen Treffer abzubekommen, brauchst du nicht zu haben. Denn anders als beim Boxen verzichten Karate-Sportler (sie nennen sich übrigens Karatekas) auf Treffer am Gegner. Sie stoppen Fuß- und Fauststöße vor dem Auftreffen ab. Voraussetzung dafür ist Selbstdisziplin, Verantwortungsbewusstsein gegenüber dem Partner und natürlich eine gute Körperbeherrschung.\nDank seiner vielseitigen Anforderungen ist dieser Sport ein idealer Ausgleich zum Alltag. Beim Karate werden Kraft, Ausdauer, Schnelligkeit und Beweglichkeit trainiert. Das macht fit! Mit Entspannungstechniken, Atemübungen und Meditation steigert ein Karatekämpfer seine Konzentrationsfähigkeit und schult die eigene Körperwahrnehmung."
             },
             "task2" : {
-                "title" : "Sie wollen für drei Monate zum Studium ins Ausland gehen und suchen nach einem Fitnessstudio, das Sie besuchen könnten. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Lage des  Fitnessstudios \n2) Öffnungszeiten \n3) mit / ohne Schwimmbad \n4) Preis für 3 Monate \n5) Ermäßigungen für Studenten",
+                "title" : "Sie haben beschlossen, Ihr Handy reparieren zu lassen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Öffnungszeiten;\n2) Preise;\n3) Ermäßigungen;\n4) Geräte.",
                 "picture" : "variant1_2",
-                "question1" : "1) Lage des  Fitnessstudios",
-                "question2" : "2) Öffnungszeiten",
-                "question3" : "3) mit / ohne Schwimmbad",
-                "question4" : "4) Preis für 3 Monate",
-                "question5" : "5) Ermäßigungen für Studenten",
-                "pictureText" : "Werden Sie unser Mitglied im August und besuchen Sie uns einen Monat kostenlos."
+                "question1" : "1) Öffnungszeiten",
+                "question2" : "2) Preise",
+                "question3" : "3) Ermäßigungen",
+                "question4" : "4) Geräte",
+                "pictureText" : "Unser Reparaturservice ist geöffnet!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant1_3_1",
-                "picture2" : "variant1_3_2",
-                "picture3" : "variant1_3_3"
+                "audioIntroduction" : "variant1_3_introduction",
+                "audioQuestion1" : "variant1_3_question1",
+                "audioQuestion2" : "variant1_3_question2",
+                "audioQuestion3" : "variant1_3_question3",
+                "audioQuestion4" : "variant1_3_question4",
+                "audioQuestion5" : "variant1_3_question5",
+                "audioEnding" : "variant1_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welches Leben Sie wilden Tieren wünschen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Über Geschmack lässt sich nicht streiten“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der beiden Freizeitaktivitäten;\n·sprechen Sie über die Nachteile (1–2) dieser  Freizeitaktivitäten;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welche Freizeitaktivität Sie vorziehen würden und warum.",
                 "picture1" : "variant1_4_1",
                 "picture2" : "variant1_4_2"
             }
@@ -31,27 +34,30 @@
         {
             "variantNumber" : "2",
             "task1" : {
-                "text" : "Ist Tanzen gesund? Ja! Zum einen macht es Spaß, weil du dich zu deiner Lieblingsmusik bewegst und so richtig austoben kannst. Dabei lockerst du deine Muskeln, ohne dass du wirklich das Gefühl hast, Sport zu treiben. Tanzen fördert deine Beweglichkeit, und du lernst, deinen Körper besser zu kontrollieren. Aufpassen musst du höchstens, dass du auf glattem Untergrund und rutschigen Sohlen nicht hinfällst.\nFazit: Tanzen ist toll, macht gute Laune und ist supergesund! Klar, dass die Menschen deshalb schon immer und überall gerne getanzt haben. Überleg doch mal, wie viele verschiedene Arten von Tänzen es gibt: Volkstänze wie der südamerikanische Salsa zählen ebenso dazu wie Walzer, Breakdance, Discofox, Hip Hop, Rock'n'Roll. Sicherlich fallen dir noch ganz viele andere Tänze ein.\nOb zu Hause oder mit anderen in der Tanzschule – probier‘s doch einfach mal aus!"
+                "text" : "Das Leben im Weltall ist anders als auf der Erde, weil dort Schwerelosigkeit herrscht. Das bedeutet, dass alles schwebt, sogar der Mensch. Beim Schlafen müssen sich die Astronauten deshalb anschnallen. Essen gibt es aus Tüten oder Tuben und beim Duschen oder in der Toilette wird das Wasser sofort mit einem speziellen Staubsauger eingesaugt.\nManchmal müssen die Astronauten auch die Raumstation verlassen und etwas reparieren oder anbauen. Dann tragen sie einen Raumanzug, der sie mit Sauerstoff versorgt. Astronauten müssen viel trainieren, bevor sie in den Weltraum fliegen. Wenn alles schwerelos ist, brauchen die Astronauten ihre Muskeln fast nicht. Wenn sich die Muskeln zu wenig bewegen, bilden sie sich zurück. Darum müssen die Menschen auf der Raumstation viel Sport machen."
             },
             "task2" : {
-                "title" : "Sie wollen für drei Monate zum Studium ins Ausland gehen und suchen nach einem Schwimmbad, das Sie besuchen könnten. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Lage des Schwimmbads\n2) Öffnungszeiten\n3) mit / ohne Saune\n4) Preis für 3 Monate\n5) Ermäßigungen für Studenten",
+                "title" : "Sie haben beschlossen, eine Autoschule zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Lage;\n2) Unterricht am Morgen;\n3) Preis für einen Unterricht;\n4) Automodelle.",
                 "picture" : "variant2_2",
-                "question1" : "1) Lage des Schwimmbads",
-                "question2" : "2) Öffnungszeiten",
-                "question3" : "3) mit / ohne Saune",
-                "question4" : "4) Preis für 3 Monate",
-                "question5" : "5) Ermäßigungen für Studenten",
-                "pictureText" : "Werden Sie unser Mitglied im August und besuchen Sie uns einen Monat kostenlos."
+                "question1" : "1) Lage",
+                "question2" : "2) Unterricht am Morgen",
+                "question3" : "3) Preis für einen Unterricht",
+                "question4" : "4) Automodelle",
+                "pictureText" : "Die beste Autoschule in der Stadt!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant2_3_1",
-                "picture2" : "variant2_3_2",
-                "picture3" : "variant2_3_3"
+                "audioIntroduction" : "variant2_3_introduction",
+                "audioQuestion1" : "variant2_3_question1",
+                "audioQuestion2" : "variant2_3_question2",
+                "audioQuestion3" : "variant2_3_question3",
+                "audioQuestion4" : "variant2_3_question4",
+                "audioQuestion5" : "variant2_3_question5",
+                "audioEnding" : "variant2_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Geburtstagsparty sie vorziehen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt “Verschiedene Menschen, verschiedene Berufe“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Berufe;\n·sprechen Sie über die Nachteile (1–2) dieser Berufe ;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, ob Sie einen von diesen Berufen wählen würden und warum.",
                 "picture1" : "variant2_4_1",
                 "picture2" : "variant2_4_2"
             }
@@ -59,27 +65,30 @@
         {
             "variantNumber" : "3",
             "task1" : {
-                "text" : "Der Tiergarten ist das grüne Herz Berlins. Zwischen Brandenburger Tor und Zoo bietet der Park mit seinen großen Wiesen viel Raum für Erholung, Sport und Freizeit. Dort wird gejoggt, Fußball gespielt, ein Spaziergang gemacht oder in der Sonne gelegen. Es sind aber nicht nur Bäume und Grünflächen, die das Gesicht des großen Tiergartens bestimmen. Viele Sehenswürdigkeiten wie Denkmäler, Brücken, die Siegessäule, das Haus der Kulturen der Welt oder der Englische Garten laden dazu ein, einen Spaziergang durch den Park zu machen.\nDer Park ist auch für den Radverkehr geöffnet und wird gerne von Radfahrern genutzt. Die schmaleren Wege sind für die Fußgänger bestimmt. Viele Bänke auf den Wegen und große Liegewiesen laden bei schönem Wetter geradezu ein, sich hinzulegen und zu entspannen."
+                "text" : "Es fällt vielen Menschen schwer, früh aufzustehen. Am Morgen schläft man doch lieber ein wenig länger. Ein wenig Zeit sparen könnte man, wenn man das Frühstück wegfallen lässt. Schnell waschen, anziehen und aus dem Haus gehen – so kann man 20 Minuten länger schlafen. Doch wirklich gut ist das für dich und deinen Körper nicht. Denn dein Körper braucht erst einmal Energie nach der langen Nacht. Beim Frühstück nimmst du wichtige Stoffe auf, um fit und ausgeschlafen in den Tag zu starten. Wer ohne Frühstück in die Schule geht, dem knurrt schon in der ersten Stunde der Magen. Die Schüler sind häufig unkonzentriert, müde und schlecht gelaunt. Ist doch logisch: Wer Hunger hat, kann sich nicht auf den Lernstoff konzentrieren. Denn die Gedanken kreisen die ganze Zeit ums Essen."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, diese Breakdance-Schule zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Preis eines Breakdance-Kurses\n2) Lage der Schule\n3) Dauer eines Breakdance-Kurses\n4) Kleidung für den Kurs\n5) Unterricht am Abend\n",
+                "title" : "Sie haben beschlossen, einen Kurs in dieser Kunstschule zu belegen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Lage;\n2) Preis einer Privatstunde;\n3) Kurse am Abend;\n4) Maximale Anzahl der Teilnehmer in der Gruppe.",
                 "picture" : "variant3_2",
-                "question1" : "1) Preis eines Breakdance-Kurses",
-                "question2" : "2) Lage der Schule",
-                "question3" : "3) Dauer eines Breakdance-Kurses",
-                "question4" : "4) Kleidung für den Kurs",
-                "question5" : "5) Unterricht am Abend",
-                "pictureText" : "Die beste Breakdance Schule der Stadt!"
+                "question1" : "1) Lage",
+                "question2" : "2) Preis einer Privatstunde",
+                "question3" : "3) Kurse am Abend",
+                "question4" : "4) Maximale Anzahl der Teilnehmer in der Gruppe",
+                "pictureText" : "Der beste Malkurs in der Stadt!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant3_3_1",
-                "picture2" : "variant3_3_2",
-                "picture3" : "variant3_3_3"
+                "audioIntroduction" : "variant3_3_introduction",
+                "audioQuestion1" : "variant3_3_question1",
+                "audioQuestion2" : "variant3_3_question2",
+                "audioQuestion3" : "variant3_3_question3",
+                "audioQuestion4" : "variant3_3_question4",
+                "audioQuestion5" : "variant3_3_question5",
+                "audioEnding" : "variant3_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welches Fest sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt  „Ein idealer Sommerurlaub“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten des Sommerurlaubs ;\n·sprechen Sie über die Nachteile (1–2) dieser Arten des Sommerurlaubs;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, was für Sie ein idealer Sommerurlaub ist und warum.",
                 "picture1" : "variant3_4_1",
                 "picture2" : "variant3_4_2"
             }
@@ -87,27 +96,30 @@
         {
             "variantNumber" : "4",
             "task1" : {
-                "text" : "In keinem anderen Zoo sind die Tiere so nah wie im Kinderzoo in München. Je nach Tierart dürfen die Tiere angefasst, gestreichelt, gefüttert oder geritten werden. So wird der Kinderzoo zum idealen Ausflugsziel für Familien mit Kindern und Schulen.\nIm Kinderzoo legt man besonders großen Wert darauf, dass Mensch und Tier sich einander begegnen können. Die Affen darf man füttern, die Pferde streicheln, die Kamele reiten, dem Giraffen auf der Terrasse in die Augen blicken, die Elefanten duschen und mit den Seelöwen kann man sich fotografieren lassen. Das darf man natürlich, wenn sie nicht gerade in einer Vorführung auftreten. Rund 300 Tiere und 58 Arten sind im Zoo in München untergebracht. Einige davon, wie z.B. der asiatische Elefant, sind vom Aussterben bedroht."
+                "text" : "Die einfachste Methode, einen Trickfilm zu drehen, ist es, einfache Gegenstände wie zum Beispiel Spielzeug zum Leben zu erwecken. Du kannst Autos Rennen fahren lassen oder Spielzeug-Figuren auf dem Schreibtisch in Bewegung setzen.\nAuf einem Tisch baust du die Szenerie auf. Die digitale Kamera stellst du am besten auf ein Stativ, damit sie nicht umfallen oder zufällig verschoben werden kann, und schließt sie an den Computer an. Die Kamera solltest du nur per Fernauslöser bedienen, um das Berühren der Kamera zu vermeiden. Denn jede unbeabsichtigte Bewegung der Kamera siehst du nachher im fertigen Film als Wackeln.\nAußerdem brauchst du ausreichend Platz, um an alle Gegenstände zu kommen, die du bewegen willst. Das Zimmer, in dem du drehst, sollte verdunkelt werden. Dann startest du das Trickaufnahme-Programm, schaltest die Beleuchtung ein – und es kann losgehen!"
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, an dieser Stadtführung „Londoner Brücken“ teilzunehmen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Dauer der Führung\n2) Anfangspunkt der Führung\n3) Zahl der Brücken\n4) Preis für eine 10 Mann starke Gruppe\n5) Ermäßigungen für Studenten",
+                "title" : "Sie haben beschlossen, einen Kurs in dieser Kunstschule zu belegen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Lage;\n2) Ausrüstung;\n3) Teilnahmepreis;\n4) Angebote für Anfänger.",
                 "picture" : "variant4_2",
-                "question1" : "1) Dauer der Führung",
-                "question2" : "2) Anfangspunkt der Führung",
-                "question3" : "3) Zahl der Brücken",
-                "question4" : "4) Preis für eine 10 Mann starke Gruppe",
-                "question5" : "5) Ermäßigungen für Studenten",
-                "pictureText" : "Nehmen Sie an unserer Stadtführung „Londoner Brücken“ teil!"
+                "question1" : "1) Lage",
+                "question2" : "2) Ausrüstung",
+                "question3" : "3) Teilnahmepreis",
+                "question4" : "4) Angebote für Anfänger",
+                "pictureText" : "Wir laden Sie in unseren Reiterclub ein!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant4_3_1",
-                "picture2" : "variant4_3_2",
-                "picture3" : "variant4_3_3"
+                "audioIntroduction" : "variant4_3_introduction",
+                "audioQuestion1" : "variant4_3_question1",
+                "audioQuestion2" : "variant4_3_question2",
+                "audioQuestion3" : "variant4_3_question3",
+                "audioQuestion4" : "variant4_3_question4",
+                "audioQuestion5" : "variant4_3_question5",
+                "audioEnding" : "variant4_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche von beiden Aktivitäten sie wählen würden, wenn sie Freizeit hätten\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Essen“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten der öffentlichen Gastronomie;\n·sprechen Sie über die Nachteile (1–2) dieser Gastronomie;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, wo Sie es vorziehen zu essen: zu Hause oder in einem Restaurant und warum.",
                 "picture1" : "variant4_4_1",
                 "picture2" : "variant4_4_2"
             }
@@ -115,27 +127,30 @@
         {
             "variantNumber" : "5",
             "task1" : {
-                "text" : "Der Tiergarten ist das grüne Herz Berlins. Zwischen Brandenburger Tor und Zoo bietet der Park mit seinen großen Wiesen viel Raum für Erholung, Sport und Freizeit. Dort wird gejoggt, Fußball gespielt, ein Spaziergang gemacht oder in der Sonne gelegen. Es sind aber nicht nur Bäume und Grünflächen, die das Gesicht des großen Tiergartens bestimmen. Viele Sehenswürdigkeiten wie Denkmäler, Brücken, die Siegessäule, das Haus der Kulturen der Welt oder der Englische Garten laden dazu ein, einen Spaziergang durch den Park zu machen.\nDer Park ist auch für den Radverkehr geöffnet und wird gerne von Radfahrern genutzt. Die schmaleren Wege sind für die Fußgänger bestimmt. Viele Bänke auf den Wegen und große Liegewiesen laden bei schönem Wetter geradezu ein, sich hinzulegen und zu entspannen."
+                "text" : "Alle Bücherfreunde dürfen sich freuen: In Frankfurt am Main findet wieder die weltberühmte Buchmesse statt. An den ersten Tagen dürfen nur Fachleute zur Buchmesse. Da kommen zum Beispiel viele Autoren oder Buchhändler. Weil sie mit Büchern arbeiten, möchten sie wissen, was in der Welt der Bücher wichtig oder neu ist. Sie können auf der Buchmesse außerdem Kontakte knüpfen oder auf ihre Ideen und Bücher aufmerksam machen.\nAn den letzten beiden Tagen der Frankfurter Buchmesse dürfen alle Besucher kommen, die gerne lesen. Sie können neben ganz normalen Büchern auch Hörbücher, Comics oder digitale Bücher entdecken. Während der Messe werden der Deutsche Buchpreis, der Friedenspreis des Deutschen Buchhandels und der Deutsche Jugendliteraturpreis verliehen."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, diese Küchenmaschine zu kaufen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Preis\n2) Bestellung im Internet\n3) Zahl der Programme\n4) Dauer der Garantie\n5) Kochbuch für die Küchenmaschine – ja / nein",
+                "title" : "Sie wollen diesen Sommer mit ihren Freunden nach Helsinki reisen und in diesem Hotel übernachten. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Lage des Hotels;\n2) mit / ohne Frühstück;\n3) Sonderangebote;\n4) Preis des Einzelzimmers.",
                 "picture" : "variant5_2",
-                "question1" : "1) Preis",
-                "question2" : "2) Bestellung im Internet",
-                "question3" : "3) Zahl der Programme",
-                "question4" : "4) Dauer der Garantie",
-                "question5" : "5) Kochbuch für die Küchenmaschine – ja / nein",
-                "pictureText" : "Dies ist einfach eine wunderbare Küchenmaschine!"
+                "question1" : "1) Lage des Hotels",
+                "question2" : "2) mit / ohne Frühstück",
+                "question3" : "3) Sonderangebote",
+                "question4" : "4) Preis des Einzelzimmers",
+                "pictureText" : "Willkommen im Holiday Inn, Helsinki!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant5_3_1",
-                "picture2" : "variant5_3_2",
-                "picture3" : "variant5_3_3"
+                "audioIntroduction" : "variant5_3_introduction",
+                "audioQuestion1" : "variant5_3_question1",
+                "audioQuestion2" : "variant5_3_question2",
+                "audioQuestion3" : "variant5_3_question3",
+                "audioQuestion4" : "variant5_3_question4",
+                "audioQuestion5" : "variant5_3_question5",
+                "audioEnding" : "variant5_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Freizeitaktivität sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Sport“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Orte fürs Training;\n·sprechen Sie über die Nachteile (1–2) dieser Orte fürs Training;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, ob Sie sich Ihr Leben ohne Sporttreiben vorstellen können und warum.",
                 "picture1" : "variant5_4_1",
                 "picture2" : "variant5_4_2"
             }
@@ -143,27 +158,30 @@
         {
             "variantNumber" : "6",
             "task1" : {
-                "text" : "Was die Menschen erfinden, gibt es in der Natur oft schon Millionen von Jahren.\nWissenschaftler wollen sich die Tricks der Antarktisbewohner abschauen und in die Technik übertragen. Die Blätter der Lotuspflanze sind von einer sich selbst reinigenden Schicht umhüllt, die Schmutz abstößt. Prima Idee, dachten sich Forscher. Könnte man diese Technik nicht nachmachen und in unserem Alltag anwenden? Kann man! Heutzutage gibt es selbstreinigende Autolacke und Fassadenfarben, die genau auf diesem Prinzip beruhen – dem „Lotus-Effekt“. „Bionik heißt: Von der Natur für die Technik lernen“, erklärt Professor Werner Nachtigall, einer der Gründerväter und Vorreiter der Bionik-Forschung in Deutschland. Der Begriff „Bionik“ ist zusammengesetzt aus „Bio-logie“ und „Tech-nik“. Forscher beobachten Natur- Phänomene ganz genau und versuchen, ihre Grundprinzipien zu verstehen, damit sie später in die Technik übertragen werden können. Doch nicht nur von Pflanzen, sondern auch von Tieren kann man sich jede Menge abgucken. Pinguine gelten zum Beispiel als großes Vorbild, was ihren niedrigen Energieverbrauch und ihre schnelle Fortbewegung unter Wasser angeht."
+                "text" : "Vor 155 Jahren stellte der deutsche Lehrer Philipp Reis sein Telefon – genannt Fernsprecher – in Frankfurt vor. Damals war die Erfindung des Telefons etwas Besonderes. Um zu beweisen, dass die Technik funktionierte, wählte Philipp Reis komische Sätze. Wie zum Beispiel: „Das Pferd frisst keinen Gurkensalat“.\nDie Erfindung von Philipp Reis funktionierte nicht besonders gut. Musik ließ sich gut übertragen. Sätze waren nicht so prima zu verstehen. Philipp Reis gelang es auch nicht, mit seiner Erfindung viel Geld zu verdienen. Andere entwickelten seine Erfindung dann weiter. Heute tragen viele ein Handy in der Tasche. Mit dem können die Menschen nicht nur telefonieren. Sie können im Internet surfen, kurze Nachrichten verschicken, Fotos machen oder Musik hören."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, diesen Ort zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Anreise- und Abfahrtstag\n2) die Lage des Hotels\n3) der Weg vom Flughafen\n4) Kosten ohne Frühstück\n5) Sonderangebote",
+                "title" : "Sie haben beschlossen, diesen Ort zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu den folgenden Stichpunkten:",
+                "questions" : "1) Anreise- und Abfahrtstag;\n2) Kosten für Übernachtung und Verpflegung;\n3) mit / ohne Frühstück;\n4) Zahl der Stadtrundfahrten.",
                 "picture" : "variant6_2",
                 "question1" : "1) Anreise- und Abfahrtstag",
-                "question2" : "2) die Lage des Hotels",
-                "question3" : "3) der Weg vom Flughafen",
-                "question4" : "4) Kosten ohne Frühstück",
-                "question5" : "5) Sonderangebote",
-                "pictureText" : "Ein attraktives Angebot für eine Traumreise!"
+                "question2" : "2) Kosten für Übernachtung und Verpflegung",
+                "question3" : "3) mit / ohne Frühstück",
+                "question4" : "4) Zahl der Stadtrundfahrten",
+                "pictureText" : "Istanbul lädt ein!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant6_3_1",
-                "picture2" : "variant6_3_2",
-                "picture3" : "variant6_3_3"
+                "audioIntroduction" : "variant6_3_introduction",
+                "audioQuestion1" : "variant6_3_question1",
+                "audioQuestion2" : "variant6_3_question2",
+                "audioQuestion3" : "variant6_3_question3",
+                "audioQuestion4" : "variant6_3_question4",
+                "audioQuestion5" : "variant6_3_question5",
+                "audioEnding" : "variant6_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, in welchem von beiden Orten Sie ein Buch lieber lesen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Einkaufen“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten des Einkaufens;\n·sprechen Sie über die Nachteile (1–2) dieser Arten des Einkaufens;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, ob Sie Lebensmittel liefern lassen und warum.",
                 "picture1" : "variant6_4_1",
                 "picture2" : "variant6_4_2"
             }
@@ -171,27 +189,30 @@
         {
             "variantNumber" : "7",
             "task1" : {
-                "text" : "Sie springen von Autobahnbrücken, surfen durch Flüsse oder hüpfen von Gebäude zu Gebäude. Dass manche den Nervenkitzel suchen, ist kein Zufall. Es ist ein Persönlichkeitsmerkmal, erklären Sportpsychologen. 20 % der Menschen tragen Gene in sich, die das Bedürfnis steigern, sich gefährliche Aktivitäten zu suchen. Das bedeutet aber nicht, dass die Extremsportler lebensmüde sind. Man muss überlegt vorgehen, sehr lange planen und trainieren, um einen bestimmten Sprung durchführen zu können. Dabei bleibt das Thema Angst immer dabei. Täglich testet der Extremsportler seine Grenzen aus, um Stück für Stück besser zu werden. Nimmt man sich zu viel vor, kann es passieren, dass der Sportler die Kontrolle verliert und in Panik gerät. Ein erfahrener Sportler kann sich aber auch in brenzligen Situationen beruhigen."
+                "text" : "Im Grunde ist ein Computer ein großer Rechner. Je nach Programm und Programmierung kann er verschiedenste Abläufe steuern und Daten verarbeiten. Mit dem persönlichen Computer kann man zum Beispiel Texte und Bilder bearbeiten, Mathehausaufgaben machen oder im Internet surfen. Und egal ob Automatiktür oder Spülmaschine – alles wird heute über Computersysteme gesteuert. Die Computer sorgen dafür, dass die ganze Welt miteinander in Verbindung treten kann. Auch wenn ein Computer Schriften, Bilder oder Internetseiten in verschiedensten Farben anzeigt, erkennt er nur Zahlen. Und nicht irgendwelche Zahlen, sondern nur Nullen und Einsen. Jede Farbe hat zum Beispiel eine eigene Zahlenkombination aus den Nullen und Einsen. Die verarbeitet der Computer und zeigt sie dementsprechend auf dem Bildschirm an."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, dieses Blumengeschäft zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Lage\n2) Öffnungszeiten\n3) Blumenarten im Angebot\n4) Topfblumen – ja / nein\n5) Ermäßigung bei einer großen Bestellung",
+                "title" : "Sie wollen diesen Sommer nach Japan reisen. möchten aber gern mehr darüber wissen.\nÜberlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Anreise- und Abfahrtstag;\n2) Reisedauer;\n3) Ticketpreis für den Heimflug;\n4) Onlinekauf von Flugtickets.",
                 "picture" : "variant7_2",
-                "question1" : "1) Lage",
-                "question2" : "2) Öffnungszeiten",
-                "question3" : "3) Blumenarten im Angebot",
-                "question4" : "4) Topfblumen – ja / nein",
-                "question5" : "5) Ermäßigung bei einer großen Bestellung",
-                "pictureText" : "Dieses Blumengeschäft hat die frischesten Blumen!"
+                "question1" : "1) Anreise- und Abfahrtstag",
+                "question2" : "2) Reisedauer",
+                "question3" : "3) Ticketpreis für den Heimflug",
+                "question4" : "4) Onlinekauf von Flugtickets",
+                "pictureText" : "Japan lädt ein!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant7_3_1",
-                "picture2" : "variant7_3_2",
-                "picture3" : "variant7_3_3"
+                "audioIntroduction" : "variant7_3_introduction",
+                "audioQuestion1" : "variant7_3_question1",
+                "audioQuestion2" : "variant7_3_question2",
+                "audioQuestion3" : "variant7_3_question3",
+                "audioQuestion4" : "variant7_3_question4",
+                "audioQuestion5" : "variant7_3_question5",
+                "audioEnding" : "variant7_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welches Essen Sie vorziehen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Kochen“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten des Kochen: selbst kochen oder online bestellen;\n·sprechen Sie über die Nachteile (1–2) dieser Arten des Kochen: selbst kochen oder online bestellen;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, ob Sie selber kochen oder liefern lassen und warum.",
                 "picture1" : "variant7_4_1",
                 "picture2" : "variant7_4_2"
             }
@@ -199,27 +220,30 @@
         {
             "variantNumber" : "8",
             "task1" : {
-                "text" : "Sie springen von Autobahnbrücken, surfen durch Flüsse oder hüpfen von Gebäude zu Gebäude. Dass manche den Nervenkitzel suchen, ist kein Zufall. Es ist ein Persönlichkeitsmerkmal, erklären Sportpsychologen. 20 % der Menschen tragen Gene in sich, die das Bedürfnis steigern, sich gefährliche Aktivitäten zu suchen. Das bedeutet aber nicht, dass die Extremsportler lebensmüde sind. Man muss überlegt vorgehen, sehr lange planen und trainieren, um einen bestimmten Sprung durchführen zu können. Dabei bleibt das Thema Angst immer dabei. Täglich testet der Extremsportler seine Grenzen aus, um Stück für Stück besser zu werden. Nimmt man sich zu viel vor, kann es passieren, dass der Sportler die Kontrolle verliert und in Panik gerät. Ein erfahrener Sportler kann sich aber auch in brenzligen Situationen beruhigen."
+                "text" : "Von Digitalisierung sprechen wir, wenn es um die Veränderungen in der Welt geht, die durch die Nutzung von Computern und des Internets entstanden sind. Zuhause ist die Digitalisierung schon bei vielen angekommen, doch an deutschen Schulen merkt man davon nur wenig. Im Unterricht wird immer noch hauptsächlich mit Büchern und Tafelbildern gearbeitet, statt mit modernen Techniken.\nEs wird auch heftig diskutiert, ob es sinnvoll ist digitale Medien im Unterricht einzusetzen. Viele Menschen meinen, dass Kinder in der Schule lernen müssen, verantwortungsvoll mit digitalen Medien umzugehen. Schließlich soll die Schule ihre Schüler auch auf das spätere Berufsleben vorbereiten. Gegner sagen, dass die Mediennutzung im Unterricht die Schüler ablenkt und nicht dazu führt, dass sie besser oder schneller lernen."
             },
             "task2" : {
-                "title" : "Sie wollen für ein Semester zum Studium ins Ausland gehen und suchen nach einer Wohnung. Sie rufen das Immobilienbüro an, um einige Details zu klären. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Lage des Hauses\n2) Lage der Wohnung (Etage)\n3) Zahl der Zimmer\n4) Preis für 6 Monate\n5) mit / ohne Balkon",
+                "title" : "Sie haben beschlossen, dieses Fitnessstudio zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Öffnungszeiten;\n2) mit / ohne Schwimmbad;\n3) Preis für 3 Monate;\n4) Ermäßigungen für Studenten.",
                 "picture" : "variant8_2",
-                "question1" : "1) Lage des Hauses",
-                "question2" : "2) Lage der Wohnung (Etage)",
-                "question3" : "3) Zahl der Zimmer",
-                "question4" : "4) Preis für 6 Monate",
-                "question5" : "5) mit / ohne Balkon",
-                "pictureText" : "Unser Firmenmotto: Menschen-Häuser-Lebensraum."
+                "question1" : "1) Öffnungszeiten",
+                "question2" : "2) mit / ohne Schwimmbad",
+                "question3" : "3) Preis für 3 Monate",
+                "question4" : "4) Ermäßigungen für Studenten",
+                "pictureText" : "Trend Fitness"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant8_3_1",
-                "picture2" : "variant8_3_2",
-                "picture3" : "variant8_3_3"
+                "audioIntroduction" : "variant8_3_introduction",
+                "audioQuestion1" : "variant8_3_question1",
+                "audioQuestion2" : "variant8_3_question2",
+                "audioQuestion3" : "variant8_3_question3",
+                "audioQuestion4" : "variant8_3_question4",
+                "audioQuestion5" : "variant8_3_question5",
+                "audioEnding" : "variant8_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welches Essen Sie vorziehen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Lernen“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten des Lernens;\n·sprechen Sie über die Nachteile (1–2) dieser Arten des Lernens;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, ob der online Unterricht den Präsenzunterricht ersetzen kann, warum?",
                 "picture1" : "variant8_4_1",
                 "picture2" : "variant8_4_2"
             }
@@ -227,27 +251,30 @@
         {
             "variantNumber" : "9",
             "task1" : {
-                "text" : "Immer mehr Menschen weltweit verzichten auf Fleisch. Seit 2007 hat sich die Zahl der Vegetarier verdoppelt. Einige gehen noch einen Schritt weiter und entscheiden sich für die vegane Ernährung. Das heißt, neben Fleisch und Fisch auch alle anderen Lebensmittel wegzulassen, die von Tieren stammen — zum Beispiel, Eier, Milch und Honig. Aber solche Produkte enthalten Stoff e, die für den Körper wichtig sind und die man nicht immer durch pflanzliche Produkte ersetzen kann. Wer nicht darauf achtet, was er isst, kann unter Mangelerscheinungen leiden. Darauf weisen die Lebensmittelwissenschaftler hin. Ihr Fazit: Überwiegend Obst und Gemüse zu essen, ist gut. Sich nur von Pflanzenkost zu ernähren, ist allerdings nicht für jeden richtig. Kindern, Jugendlichen, Alten und Schwangeren rät man sogar davon ab, sich vegan zu ernähren."
+                "text" : "Früher legte man sein Geld unter die Matratze oder versteckte es im Kleiderschrank hinter den Pullovern. Heute bringen die meisten Leute ihr Geld auf Banken oder Sparkassen. Auf der Bank liegt das Geld zum einen sicherer als unter der Matratze. Aber es gibt noch einen Vorteil: Auf der Bank kann sich das Geld vermehren.\nEine Bank arbeitet mit dem Geld. Sie verleiht es zum Beispiel weiter. Manchmal brauchen Leute nämlich mehr Geld als sie besitzen. Etwa wenn sie etwas sehr teures, wie ein Auto, eine Wohnung oder ein Haus kaufen möchten. Dann gehen sie zu einer Bank und leihen sich dort das fehlende Geld – sie nehmen also einen Kredit auf. Banken verleihen ihr Geld allerdings nicht nur an Privatleute, sondern auch an große Unternehmen, die davon zum Beispiel neue Maschinen kaufen können."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, ein Museum im Ausland zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Öffnungszeiten\n2) Führungen — ja / nein\n3) Sprachangebot\n4) Eintrittspreise\n5) Ermäßigungen für Schüler / Studenten",
+                "title" : "Sie haben beschlossen, eine Ballettschule zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Preis für eine Person;\n2) Ermäßigungen für Schüler;\n3) Lage;\n4) Unterricht für Anfänger.",
                 "picture" : "variant9_2",
-                "question1" : "1) Öffnungszeiten",
-                "question2" : "2) Führungen — ja / nein",
-                "question3" : "3) Sprachangebot",
-                "question4" : "4) Eintrittspreise",
-                "question5" : "5) Ermäßigungen für Schüler / Studenten",
-                "pictureText" : "Ein interessantes Museum für Kunst und Kultur."
+                "question1" : "1) Preis für eine Person",
+                "question2" : "2) Ermäßigungen für Schüler",
+                "question3" : "3) Lage",
+                "question4" : "4) Unterricht für Anfänger",
+                "pictureText" : "Die beste Ballettschule in Ihrer Nähe!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant9_3_1",
-                "picture2" : "variant9_3_2",
-                "picture3" : "variant9_3_3"
+                "audioIntroduction" : "variant9_3_introduction",
+                "audioQuestion1" : "variant9_3_question1",
+                "audioQuestion2" : "variant9_3_question2",
+                "audioQuestion3" : "variant9_3_question3",
+                "audioQuestion4" : "variant9_3_question4",
+                "audioQuestion5" : "variant9_3_question5",
+                "audioEnding" : "variant9_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Schulkleidung Sie vorziehen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt  „Lernen“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten des Lernens;\n·sprechen Sie über die Nachteile (1–2) dieser Arten des Lernens;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, was bevorzugen Sie, alleine oder in der Gruppe zu lernen, warum?",
                 "picture1" : "variant9_4_1",
                 "picture2" : "variant9_4_2"
             }
@@ -255,27 +282,30 @@
         {
             "variantNumber" : "10",
             "task1" : {
-                "text" : "Schaut man bei klarem Wetter in den Nachthimmel, dann sind viele helle Punkte zu sehen. Das sind Sterne, also Sonnen, die sehr weit weg sind. Je entfernter ein Objekt ist, desto kleiner erscheint es uns. Viele Sterne sind jedoch so weit von uns entfernt, dass wir sie eigentlich gar nicht mehr sehen können. Nur weil sie so hell leuchten, nehmen wir sie gerade noch wahr. Das Funkeln entsteht, weil das Sternenlicht unsere Erdatmosphäre passieren muss, bevor es auf unser Auge trifft  . In den unruhigen Luft schichten werden die Lichtstrahlen leicht abgelenkt. Sterne am Horizont funkeln stärker, als die Sterne direkt über uns, denn ihr Licht legt einen längeren Weg durch die Atmosphäre zurück. Für die Astronauten hingegen gibt es kein Funkeln, sondern nur leuchtende Punkte im Weltraum."
+                "text" : "Der Glücksatlas ist eine Umfrage, die die Deutsche Post jedes Jahr durchführt. Seit acht Jahren werden viele deutsche Bürger aus allen Bundesländern befragt, wie wohl sie sich in Deutschland fühlen.\nAm glücklichsten sind die Menschen in Schleswig-Holstein, dann folgen Hamburg und Hessen. Die unglücklichsten Deutschen leben jedoch in Berlin, Sachsen und Sachsen-Anhalt. Ganz unten in der Liste liegt Brandenburg. Allgemein ist aber deutlich, dass die Leute in allen Bundesländern zufriedener geworden sind. Auf einer Skala von 0 bis 10 liegt Deutschland in diesem Jahr insgesamt bei knapp 7 Punkten. Im europäischen Vergleich landet Deutschland damit auf Platz neun. Die guten Ergebnisse erklären die Soziologen vor allem mit einer besseren wirtschaftlichen Lage."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, eine Sommersprachreise zu unternehmen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Reisetermin\n2) Altersgruppen der Sprachschüler\n3) Zahl der Unterrichtsstunden pro Woche\n4) Zusätzliche Aktivitäten\n5) Zertifikat — ja / nein",
+                "title" : "Sie haben beschlossen, das Karaoke-Lokal zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Lage;\n2) Öffnungszeiten;\n3) Preis des Eintrittstickets;\n4) Lieder in deutscher Sprache.",
                 "picture" : "variant10_2",
-                "question1" : "1) Reisetermin",
-                "question2" : "2) Altersgruppen der Sprachschüler",
-                "question3" : "3) Zahl der Unterrichtsstunden pro Woche",
-                "question4" : "4) Zusätzliche Aktivitäten",
-                "question5" : "5) Zertifikat — ja / nein",
-                "pictureText" : "Bereiten Sie sich auf den Sommer vor!"
+                "question1" : "1) Lage",
+                "question2" : "2) Öffnungszeiten",
+                "question3" : "3) Preis des Eintrittstickets",
+                "question4" : "4) Lieder in deutscher Sprache",
+                "pictureText" : "Das beste Karaoke-Lokal der Stadt!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant10_3_1",
-                "picture2" : "variant10_3_2",
-                "picture3" : "variant10_3_3"
+                "audioIntroduction" : "variant10_3_introduction",
+                "audioQuestion1" : "variant10_3_question1",
+                "audioQuestion2" : "variant10_3_question2",
+                "audioQuestion3" : "variant10_3_question3",
+                "audioQuestion4" : "variant10_3_question4",
+                "audioQuestion5" : "variant10_3_question5",
+                "audioEnding" : "variant10_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welches Verkehrsmittel Sie vorziehen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Berufe“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Berufe;\n·sprechen Sie über die Nachteile (1–2) dieser Berufe;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, was Sie werden möchten, warum?",
                 "picture1" : "variant10_4_1",
                 "picture2" : "variant10_4_2"
             }
@@ -283,27 +313,30 @@
         {
             "variantNumber" : "11",
             "task1" : {
-                "text" : "Rein statistisch gesehen sind vier Stunden pro Tag viel Zeit, um sich sportlich zu betätigen. Dank neuer Trendsportarten und der entsprechenden Angebote können sich die Deutschen sportlich in jeder Hinsicht betätigen. Klettern zum Beispiel ist „in“. Der Fachverband für künstliche Kletteranlagen informiert, dass in Deutschland jährlich rund zehn neue Kletterhallen eröffnen. Vor allem in den größeren deutschen Städten gibt es etwa 370 solcher Hallen.\nWandern, Radfahren und Joggen sind Dauerbrenner, was die sportlichen Aktivitäten angeht. Seit einigen Jahren setzt sich  das Paddeln im Stehen auf einem Surfboard durch. Oder Trekraft: Wandern und Paddeln mit einen leichten Faltboot werden miteinander kombiniert.\nStatt Muskeltraining an Maschinen gibt es neu das „Schlingentraining“: Das ist eine Trainingsmethode für alle Muskeln mit Hilfe eines Seil- und Schlingensystems."
+                "text" : "Roboter sind Maschinen, die sich mithilfe von Motoren bewegen und verschiedene Aufgaben erledigen können. Die Bewegungen des Roboters werden dabei von einem Computerprogramm gesteuert. Roboter können auch mit Sensoren wie zum Beispiel einer Kamera ausgerüstet werden. Roboter sehen ganz unterschiedlich aus und übernehmen verschiedene Aufgaben. So gibt es rollende Roboter, die alte Menschen unterstützen können, kleine Roboter, die automatisch den Rasen mähen. Auch im Weltraum werden mittlerweile Roboter eingesetzt. Dort erforschen sie weit entfernte Planeten wie den Mars.\nVor allem aber in der Industrie läuft heute nichts mehr ohne Roboter. Die Vorteile für die Unternehmen sind klar: Roboter werden nicht krank, verlangen kein Geld, arbeiten rund um die Uhr und erledigen ihre Arbeit immer gleich."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, das Restaurant Sphere zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Öffnungszeiten\n2) Gerichte für Vegetarier\n3) Wartezeit\n4) Zahlungsmittel\n5) Tischreservierung online",
+                "title" : "Sie haben beschlossen, einen Nebenjob zu finden. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Auswahl an Arbeitsstellen;\n2) Gehalt;\n3) Nötige Kompetenzen;\n4) Kontaktperson.",
                 "picture" : "variant11_2",
-                "question1" : "1) Öffnungszeiten",
-                "question2" : "2) Gerichte für Vegetarier",
-                "question3" : "3) Wartezeit",
-                "question4" : "4) Zahlungsmittel",
-                "question5" : "5) Tischreservierung online",
-                "pictureText" : "Wir laden Sie ein, unser Restaurant Sphere zu besuchen."
+                "question1" : "1) Auswahl an Arbeitsstellen",
+                "question2" : "2) Gehalt",
+                "question3" : "3) Nötige Kompetenzen",
+                "question4" : "4) Kontaktperson",
+                "pictureText" : "Aktuelle Nebenjobs für Jugendliche!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant11_3_1",
-                "picture2" : "variant11_3_2",
-                "picture3" : "variant11_3_3"
+                "audioIntroduction" : "variant11_3_introduction",
+                "audioQuestion1" : "variant11_3_question1",
+                "audioQuestion2" : "variant11_3_question2",
+                "audioQuestion3" : "variant11_3_question3",
+                "audioQuestion4" : "variant11_3_question4",
+                "audioQuestion5" : "variant11_3_question5",
+                "audioEnding" : "variant11_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, wo und wie Sie vorziehen, Feste zu feiern\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Freizeitgestaltung“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Freizeitbeschäftigungen;\n·sprechen Sie über die Nachteile (1–2) dieser Freizeitbeschäftigungen;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, was für Sie die beste Freizeitbeschäftigung ist und warum?",
                 "picture1" : "variant11_4_1",
                 "picture2" : "variant11_4_2"
             }
@@ -311,27 +344,30 @@
         {
             "variantNumber" : "12",
             "task1" : {
-                "text" : "Der Rückgang der Schülerinnen und Schüler um 4 Prozent im aktuellen Schuljahr ist schnell erklärt: Die Deutschen bekommen heute weniger Kinder - im Durchschnitt 1,47 Kinder pro Frau, 1960 waren es noch 2,5 Kinder. Doch mit der verstärkten Zuwanderung können sich diese Zahlen bald ändern.\nJeder 11. Schüler in Deutschland sucht eine Alternative zum staatlichen Schulwesen. Wie das Statistische Bundesamt berichtet, gibt es heute 79 Prozent mehr private Schulen in Deutschland als noch 1992. \nWoher kommt dieses Wachstum? Neben dem Argument, dass die Kinder auf Privatschulen individueller gefördert werden beklagen Eltern die enorm hohen Unterrichtsausfälle an deutschen staatlichen Schulen: Pro Woche fallen im Schnitt eine Million Stunden durch Krankheit, Fortbildung oder Schwangerschaften von Lehrpersonal aus."
+                "text" : "Ist Tanzen gesund? Ja! Zum einen macht es Spaß, weil du dich zu deiner Lieblingsmusik bewegst und so richtig austoben kannst. Dabei lockerst du deine Muskeln, ohne dass du wirklich das Gefühl hast, Sport zu treiben. Tanzen fördert deine Beweglichkeit, und du lernst, deinen Körper besser zu kontrollieren. Aufpassen musst du höchstens, dass du auf glattem Untergrund und rutschigen Sohlen nicht hinfällst.\nFazit: Tanzen ist toll, macht gute Laune und ist supergesund! Klar, dass die Menschen deshalb schon immer und überall gerne getanzt haben. Überleg doch mal, wie viele verschiedene Arten von Tänzen es gibt: Volkstänze wie der südamerikanische Salsa zählen ebenso dazu wie Walzer, Breakdance, Discofox, Hip Hop, Rock'n'Roll. Sicherlich fallen dir noch ganz viele andere Tänze ein.\nOb zu Hause oder mit anderen in der Tanzschule – probier‘s doch einfach mal aus!"
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, die Münchener Pinakothek zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Aktuelle Ausstellungen\n2) Öffnungszeiten an Feiertagen\n3) Eintrittspreis\n4) Führungen online buchen\n5) Ermäßigter Eintritt",
+                "title" : "Sie haben beschlossen, dieses Buch zu kaufen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten 4 direkte Fragen zu den folgenden Stichpunkten:",
+                "questions" : "1) Erscheinungsjahr des Buches;\n2) Zahl der Rezepte;\n3) Kochrezepte für Vegetarier;\n4) Kochrezepte für Vegetarier.",
                 "picture" : "variant12_2",
-                "question1" : "1) Aktuelle Ausstellungen",
-                "question2" : "2) Öffnungszeiten an Feiertagen",
-                "question3" : "3) Eintrittspreis",
-                "question4" : "4) Führungen online buchen",
-                "question5" : "5) Ermäßigter Eintritt",
-                "pictureText" : "Eine neue Pinakothek hat in München eröffnet!"
+                "question1" : "1) Erscheinungsjahr des Buches",
+                "question2" : "2) Zahl der Rezepte",
+                "question3" : "3) Kochrezepte für Vegetarier",
+                "question4" : "4) Kochrezepte für Vegetarier",
+                "pictureText" : "Das neue Kochbuch von Julia Talor!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant12_3_1",
-                "picture2" : "variant12_3_2",
-                "picture3" : "variant12_3_3"
+                "audioIntroduction" : "variant12_3_introduction",
+                "audioQuestion1" : "variant12_3_question1",
+                "audioQuestion2" : "variant12_3_question2",
+                "audioQuestion3" : "variant12_3_question3",
+                "audioQuestion4" : "variant12_3_question4",
+                "audioQuestion5" : "variant12_3_question5",
+                "audioEnding" : "variant12_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, wo Sie zu wohnen vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Verkehr“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Verkehrsmittel in der Stadt;\n·sprechen Sie über die Nachteile (1–2) der beiden Verkehrsmittel in der Stadt;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welches Verkehrsmittel Sie in der Stadt vorziehen würden und warum?",
                 "picture1" : "variant12_4_1",
                 "picture2" : "variant12_4_2"
             }
@@ -339,27 +375,30 @@
         {
             "variantNumber" : "13",
             "task1" : {
-                "text" : "Das zweitkleinste deutsche Bundesland ist gleichzeitig mit über 1,7 Millionen Einwohnern Deutschlands zweitgrößte Stadt. Berühmt ist aber vor allem der Hafen. Um eine Hafenrundfahrt kommt man nicht herum, will man die Stadterkunden.\n10.000 Seeschiffe kommen hier jährlich an. Die meisten sind Containerschiffe mit Waren aus aller Welt. Hamburg ist gleichzeitig der größte Eisenbahnhafen Europas und der zweitgrößte der Welt. Hamburg ist Europas größter Importhafen für Kaffee und gehört zu den größten Papierumschlagplätzen weltweit.\nBesonders beeindruckend ist die Speicherstadt innerhalb des Hamburger Hafens. Sie ist ab 1883 als Teil des Hamburger Freihafens errichtet worden. Fast 600.000 Quadratmeter beträgt die Fläche. Seit jeher lagern hier Waren aus aller Welt wie Kaffee, Kakao, Tee, Gewürze, Tabak und das weltweit größte Lager für Orientteppiche."
+                "text" : "Bern ist eine Stadt in der Schweiz und wird von vielen auch als Hauptstadt des Landes betrachtet. Möglicherweise kommt der Name vom Bären, wie man ihn auch im Wappen der Stadt sieht. Bern liegt in der Mitte des Schweizer Mittellandes, deshalb ist es für die Wirtschaft sehr wichtig.\nDie Altstadt ist von langen Gassen durchzogen. Das unterste Stockwerk der Häuser ist etwas von der Straße entfernt. Darüber stehen die weiteren Stockwerke durch Bogen abgestützt. Diese Arkaden heißen in Bern Lauben. Sie sind sehr typisch für die Stadt. Weil die Stadt Bern so gut erhalten blieb, ist sie ein Weltkulturerbe. Viele Touristen kommen in diese Stadt nicht nur wegen der schönen Altstadt. In Bern gibt es viele Theater, auch kleine Kellertheater. Es gibt in Bern auch einige Museen, die für die ganze Schweiz wichtig sind."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, ins Cafe Central zu gehen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Konzertprogramm\n2) Anfahrt\n3) Speisekarte\n4) Lage\n5) Öffnungszeiten",
+                "title" : "Sie haben beschlossen, diese Breakdance-Schule zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten 4 direkte Fragen zu den folgenden Stichpunkten:",
+                "questions" : "1) Preis eines Breakdance-Kurses;\n2) Lage der Schule;\n3) Dauer eines Breakdance-Kurses;\n4) Kleidung für den Kurs.",
                 "picture" : "variant13_2",
-                "question1" : "1) Konzertprogramm",
-                "question2" : "2) Anfahrt",
-                "question3" : "3) Speisekarte",
-                "question4" : "4) Lage",
-                "question5" : "5) Öffnungszeiten",
-                "pictureText" : "Leckeres Wiener Essen!"
+                "question1" : "1) Preis eines Breakdance-Kurses",
+                "question2" : "2) Lage der Schule",
+                "question3" : "3) Dauer eines Breakdance-Kurses",
+                "question4" : "4) Kleidung für den Kurs",
+                "pictureText" : "Herzlich willkommen in unserer Breakdance-Schule!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant13_3_1",
-                "picture2" : "variant13_3_2",
-                "picture3" : "variant13_3_3"
+                "audioIntroduction" : "variant13_3_introduction",
+                "audioQuestion1" : "variant13_3_question1",
+                "audioQuestion2" : "variant13_3_question2",
+                "audioQuestion3" : "variant13_3_question3",
+                "audioQuestion4" : "variant13_3_question4",
+                "audioQuestion5" : "variant13_3_question5",
+                "audioEnding" : "variant13_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, womit Sie zu reisen vorziehen\n· erklären Sie, warum",
+                "title" : "Aufgabe 4. Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt “Feste“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Feste;\n·sprechen Sie über die Nachteile (1–2) dieser Feste;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welches Fest Sie vorziehen würden und warum?",
                 "picture1" : "variant13_4_1",
                 "picture2" : "variant13_4_2"
             }
@@ -367,27 +406,30 @@
         {
             "variantNumber" : "14",
             "task1" : {
-                "text" : "Gegründet wurde Köln im Jahr 38 vor Christus von den Römern. „Colonia Claudia Ara Agrippinensium“ ist der lateinische Name. Hier wurde eine Stadt nach römischem Recht auf Initiative Agrippinas gegründet. Sie war die Gattin des Kaisers Claudius und hat einen gewaltigen Aufschwung in Gang gebracht. Denn als Kolonie stand die Stadt in der Städte-Hierarchie im Römischen Imperium ganz oben. Unter anderem waren die Bürger den Römern gleichgestellt.\nKöln entwickelte sich im 2. und 3. Jahrhundert nach Christus zu einer der bedeutendsten Städte des römischen Reiches und lockte Händler und Handwerker von weit her an. Typisch heute für Köln: Sobald eine Baustelle entsteht, finden sich in den Tiefen der Erde Reste von Römerbauwerken. Bevor dann weitergebaut wird, müssen erst die Archäologen ran! Die Spuren der Römer lassen sich übrigens am besten im Römisch-Germanischen Museum erkunden."
+                "text" : "Johann Sebastian Bach war Musiker und Komponist. Auch heute noch ist er einer der wichtigsten Komponisten in der Geschichte der Musik. Seine Stücke werden oft gespielt. Bach kam aus einer musikalischen Familie und lernte die Musik vom Vater und einem älteren Bruder. Das Komponieren, also Schreiben von Musikstücken, brachte er sich selbst bei. Mit siebzehn Jahren arbeitete er schon als Orgel-Spieler.\nJohann Sebastian Bach interessierte sich für allerlei Arten von Musik und hatte Respekt für andere Musiker. Mit Instrumenten kannte er sich gut aus. Er wusste auch von den Ideen, die hinter der Musik stecken. Besonders gut konnte Bach Orgel spielen. Wenn man ihm eine Melodie vorgesungen hat, konnte er sie sofort auf der Orgel nachspielen. Bachs Weihnachtswerke werden immer zu Weihnachten gespielt."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, in ein Fitness Zentrum zu gehen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Spektrum an Fitnesskursen\n2) Persönliche Trainings\n3) Mitgliedschaft\n4) Gebühren\n5) Probetraining",
+                "title" : "Sie haben beschlossen, an dieser Stadtführung teilzunehmen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten 4 direkte Fragen zu den folgenden Stichpunkten:",
+                "questions" : "1) Dauer der Führung;\n2) Anfangspunkt der Führung;\n3) Zahl der Brücken;\n4) Preis für eine 10 Mann starke Gruppe.",
                 "picture" : "variant14_2",
-                "question1" : "1) Spektrum an Fitnesskursen",
-                "question2" : "2) Persönliche Trainings",
-                "question3" : "3) Mitgliedschaft",
-                "question4" : "4) Gebühren",
-                "question5" : "5) Probetraining",
-                "pictureText" : "FitnessFirst wartet auf alle!"
+                "question1" : "1) Dauer der Führung",
+                "question2" : "2) Anfangspunkt der Führung",
+                "question3" : "3) Zahl der Brücken",
+                "question4" : "4) Preis für eine 10 Mann starke Gruppe",
+                "pictureText" : "Stadtführung “Londoner Brücken”"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant14_3_1",
-                "picture2" : "variant14_3_2",
-                "picture3" : "variant14_3_3"
+                "audioIntroduction" : "variant14_3_introduction",
+                "audioQuestion1" : "variant14_3_question1",
+                "audioQuestion2" : "variant14_3_question2",
+                "audioQuestion3" : "variant14_3_question3",
+                "audioQuestion4" : "variant14_3_question4",
+                "audioQuestion5" : "variant14_3_question5",
+                "audioEnding" : "variant14_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Jahreszeit Sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt «Über Geschmack lässt sich nicht streiten» arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten sich Filme anzuschauen;\n·sprechen Sie über die Nachteile (1–2) der beiden Arten sich Filme anzuschauen;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, wie Sie sich lieber Filme anschauen würden und warum?",
                 "picture1" : "variant14_4_1",
                 "picture2" : "variant14_4_2"
             }
@@ -395,27 +437,30 @@
         {
             "variantNumber" : "15",
             "task1" : {
-                "text" : "Jeder deutsche Erwachsene sitzt durchschnittlich sieben Stunden am Tag. Und der Anteil der Sportmuffel ist seit 2007 bis heute von 45 auf 52 Prozent gestiegen. 18 Prozent treiben gar keinen Sport. Die Sportler sind in Deutschland inzwischen in einer  Minderheit. Die zeigt eine aktuelle Studie der Techniker Krankenkasse.\nZwei Drittel der Befragten bewegen sich noch nicht einmal eine Stunde am Tag, den Gang zu Kopierer und Toilette mit eingerechnet. Gerade die „Dauersitzer“ mit einem Bürojob weisen einen hohen Bewegungsmangel auf. Sie sitzen im Schnitt rund neun Stunden täglich.\nMittlerweile trainieren die Deutschen am liebsten im Fitnessstudio - 36 Prozent haben das in der TK-Umfrage bestätigt. Es folgen Fahrradfahren inklusive Radrennfahren, Joggen, Wandern, Schwimmen und schließlich Fußball. Fitnessstudios bieten sehr schnell neue Trendsportarten an."
+                "text" : "Die Erwachsenen entspannen sich nach einem stressigen Tag vor dem Fernseher. Auch Kinder mögen fernsehen. Oft kommt es aber vor, dass Eltern nicht möchten, dass ihre Kinder vor dem Fernseher sitzen. Es heißt dann: Geh doch lieber in dein Zimmer! Fernsehen gucken ist schlecht für die Augen. Aber das Fernsehen spielt im heutigen Leben eine große Rolle und ist für Kinder nicht schädlich. Die Zeit vor dem Fernseher muss aber an das Alter der Kinder angepasst werden und die Programme müssen kindgerecht sein.\nMan muss dem Kind das Fernsehen nicht verbieten. In der modernen Gesellschaft bekommen wir viele Informationen aus den Medien und das Fernsehen ist ein wichtiger Teil davon. Nur wer frühzeitig lernt, mit den Medien richtig umzugehen, kann sie später auch gefahrlos nutzen."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, ins KaDeWe zu gehen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Anfahrt\n2) Fläche\n3) Kundenkarte\n4) Parkmöglichkeiten\n5) Öffnungszeiten",
+                "title" : "Sie haben beschlossen, dieses Blumengeschäft zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu den folgenden Stichpunkten:",
+                "questions" : "1) Lage;\n2) Öffnungszeiten;\n3) Blumenarten im Angebot;\n4) Topfblumen – ja / nein.",
                 "picture" : "variant15_2",
-                "question1" : "1) Anfahrt",
-                "question2" : "2) Fläche",
-                "question3" : "3) Kundenkarte",
-                "question4" : "4) Parkmöglichkeiten",
-                "question5" : "5) Öffnungszeiten",
-                "pictureText" : "KaDeWe wartet immer auf seine Besucher!"
+                "question1" : "1) Lage",
+                "question2" : "2) Öffnungszeiten",
+                "question3" : "3) Blumenarten im Angebot",
+                "question4" : "4) Topfblumen – ja / nein",
+                "pictureText" : "Die besten Blumen finden Sie bei uns!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant15_3_1",
-                "picture2" : "variant15_3_2",
-                "picture3" : "variant15_3_3"
+                "audioIntroduction" : "variant15_3_introduction",
+                "audioQuestion1" : "variant15_3_question1",
+                "audioQuestion2" : "variant15_3_question2",
+                "audioQuestion3" : "variant15_3_question3",
+                "audioQuestion4" : "variant15_3_question4",
+                "audioQuestion5" : "variant15_3_question5",
+                "audioEnding" : "variant15_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Freizeitaktivitäten Sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt “Freizeitaktivitäten“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Aktivitäten;\n·sprechen Sie über die Nachteile (1–2) dieser Aktivitäten;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welche von beiden Aktivitäten Sie vorziehen würden, um sich zu erholen erklären Sie, warum?",
                 "picture1" : "variant15_4_1",
                 "picture2" : "variant15_4_2"
             }
@@ -423,27 +468,30 @@
         {
             "variantNumber" : "16",
             "task1" : {
-                "text" : "Albert Einstein hat genau heute vor 100 Jahren im Fachblatt Annalen der Physik  seine Allgemeine Relativitätstheorie veröffentlicht. Einsteins Manuskript erreichte den Verlag bereits am 20. März 1916. Die Ausgabe mit dem Beitrag erschien 1916. Mit der Veröffentlichung revolutionierte der Wissenschaftler das Weltbild der Physik  - auch wenn das nicht sofort klar war.\nDen Kern seiner Theorie hatte Einstein bereits ein paar Monate vor der Veröffentlichung in den Annalen an der Preußischen Akademie der Wissenschaften in Berlin vorgestellt.\nDie Messung von Gravitationswellen ist für Physiker eine Jahrhundertsensation. \nBereits zehn Jahre zuvor hatte Einstein seine Spezielle Relativitätstheorie veröffentlicht. Sie besagt, dass sich Raum und Zeit nicht getrennt voneinander messen lassen. In seine Allgemeine Relativitätstheorie bezog Einstein die Schwerkraft mit ein."
+                "text" : "Ich hole schnell etwas aus dem Archiv. Diesen Satz hört man oft in Kriminalfilmen. Dann braucht jemand meist eine Information. Oft geht er dann in einen Raum, wo verschiedene Schriftstücke gesammelt sind. Archive sind eine Art Gedächtnis. Dort wird etwas lange Zeit aufbewahrt. Das können zum Beispiel Urkunden, Fotos oder wertvolle Gegenstände sein.\nStädte haben oft Archive, in denen sie ihre Geschichte festhalten. Je nach Alter der Stadt können sie recht umfangreich werden. So besitzt zum Beispiel das Archiv der Stadt Lübeck rund 11.000 Urkunden aus dem Mittelalter. Die Stadt liegt im Norden von Deutschland und ist über 700 Jahre alt. Jetzt ist es schon schwer, Platz für neue Dokumente zu finden. Trotzdem findet der Direktor: Hier darf nichts weggeworfen werden."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, bei der Bäckerei Junge einzukaufen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Inhaltsstoffe\n2) Produkte\n3) Brot ohne Mehl\n4) Online-Vorbestellung\n5) Lage",
+                "title" : "Sie haben beschlossen, am Wochenende Schlittschuh zu laufen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Öffnungszeiten;\n2) Schlittschuhe ausleihen;\n3) Kurse für Anfänger;\n4) Essmöglichkeiten.",
                 "picture" : "variant16_2",
-                "question1" : "1) Inhaltsstoffe",
-                "question2" : "2) Produkte",
-                "question3" : "3) Brot ohne Mehl",
-                "question4" : "4) Online-Vorbestellung",
-                "question5" : "5) Lage",
-                "pictureText" : "Hier werden die leckersten Brötchen gebacken!"
+                "question1" : "1) Öffnungszeiten",
+                "question2" : "2) Schlittschuhe ausleihen",
+                "question3" : "3) Kurse für Anfänger",
+                "question4" : "4) Essmöglichkeiten",
+                "pictureText" : "Eine neue Eishalle in Ihrer Nähe!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant16_3_1",
-                "picture2" : "variant16_3_2",
-                "picture3" : "variant16_3_3"
+                "audioIntroduction" : "variant16_3_introduction",
+                "audioQuestion1" : "variant16_3_question1",
+                "audioQuestion2" : "variant16_3_question2",
+                "audioQuestion3" : "variant16_3_question3",
+                "audioQuestion4" : "variant16_3_question4",
+                "audioQuestion5" : "variant16_3_question5",
+                "audioEnding" : "variant16_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, was Sie vorziehen nach der Schule zu machen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Ein ideales Wochenende“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Aktivitäten;\n·sprechen Sie über die Nachteile (1–2) dieser Aktivitäten;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, wie Sie Ihr Wochenende verbringen würden und warum?",
                 "picture1" : "variant16_4_1",
                 "picture2" : "variant16_4_2"
             }
@@ -451,27 +499,30 @@
         {
             "variantNumber" : "17",
             "task1" : {
-                "text" : "Zu den Salomonen gehören knapp 1000 Inseln. Anhand von Satellitenaufnahmen aus den Jahren 1947 bis 2014 untersuchten die Wissenschaftler die Entwicklung von 33 Inseln. Drei von ihnen waren schon im Jahr 2002 verschwunden, eine weitere war 2011 weg, und die letzte ging offenbar erst zwischen 2011 und 2014 unter - auf dem Satellitenbild des Kartendienstes Google Maps ist sie noch zu sehen.\nSechs weitere Inseln verloren seit 1947 mehr als ein Fünftel ihrer Fläche. Eine Gruppe geschützt gelegener Inseln dagegen blieb unversehrt. Küstenerosion von Pazifikinseln ist kein neues Phänomen. Aber der Meeresspiegel, der in der Region auch durch veränderte Windmuster seit 1994 um bis zu 15 Zentimeter anstieg, hat die Lage offenbar verschärft: Aus Überresten alter Bäume schließen die Forscher, dass die Küstenlinie der betroffenen Inseln in den Jahrhunderten zuvor nahezu stabil war."
+                "text" : "In keinem anderen Zoo sind die Tiere so nah wie im Kinderzoo in München. Je nach Tierart dürfen die Tiere angefasst, gestreichelt, gefüttert oder geritten werden. So wird der Kinderzoo zum idealen Ausflugsziel für Familien mit Kindern und Schulen.\nIm Kinderzoo legt man besonders großen Wert darauf, dass Mensch und Tier sich einander begegnen können. Die Affen darf man füttern, die Pferde streicheln, die Kamele reiten, dem Giraffen auf der Terrasse in die Augen blicken, die Elefanten duschen und mit den Seelöwen kann man sich fotografieren lassen. Das darf man natürlich, wenn sie nicht gerade in einer Vorführung auftreten. Rund 300 Tiere und 58 Arten sind im Zoo in München untergebracht. Einige davon, wie z.B. der asiatische Elefant, sind vom Aussterben bedroht."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, sich ein Auto zu kaufen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) aktuelle Angebote\n2) Probefahrt\n3) Individuelle Beratung\n4) Sonderfahrzeuge für Fahrschulen\n5) Dienstleistungen",
+                "title" : "Sie haben beschlossen, Ihr Wochenende mit der Familie am See zu verbringen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Preis;\n2) Lage;\n3) Transfer bis zum See;\n4) Übernachtung.",
                 "picture" : "variant17_2",
-                "question1" : "1) aktuelle Angebote",
-                "question2" : "2) Probefahrt",
-                "question3" : "3) Individuelle Beratung",
-                "question4" : "4) Sonderfahrzeuge für Fahrschulen",
-                "question5" : "5) Dienstleistungen",
-                "pictureText" : "Am besten kaufen Sie ein Auto in diesem Showroom."
+                "question1" : "1) Preis",
+                "question2" : "2) Lage",
+                "question3" : "3) Transfer bis zum See",
+                "question4" : "4) Übernachtung",
+                "pictureText" : "Familienwochenende am See!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant17_3_1",
-                "picture2" : "variant17_3_2",
-                "picture3" : "variant17_3_3"
+                "audioIntroduction" : "variant17_3_introduction",
+                "audioQuestion1" : "variant17_3_question1",
+                "audioQuestion2" : "variant17_3_question2",
+                "audioQuestion3" : "variant17_3_question3",
+                "audioQuestion4" : "variant17_3_question4",
+                "audioQuestion5" : "variant17_3_question5",
+                "audioEnding" : "variant17_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Verkehrsmittel Sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt “Glückliche Kindheit“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Aktivitäten;\n·sprechen Sie über die Nachteile (1–2) dieser Aktivitäten;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welche Aktivitäten Sie in der Freizeit als Kind bevorzugt haben und warum?",
                 "picture1" : "variant17_4_1",
                 "picture2" : "variant17_4_2"
             }
@@ -479,27 +530,30 @@
         {
             "variantNumber" : "18",
             "task1" : {
-                "text" : "Bioprodukte liegen im Trend: Allein in Deutschland stiegt der Umsatz mit Bioprodukten 2011 um neun Prozent. In Europa ist Deutschland so mit einem Umsatz von rund 6,6 Milliarden Euro im Jahr 2011 weiterhin der wichtigste Biomarkt. Auch wenn ein Teil dieser Umsatzerhöhung allgemeinen Preissteigerungen bei Bioprodukten  zuzuordnen ist, wird eines deutlich: Die Lust auf  Bio wächst und wächst.\nAktuelle Zahlen belegen, dass bei Bioprodukten vor allem die Nachfrage nach Biofleisch immer größer wird. 2011 stieg sie in Deutschland um fast 40 Prozent. Grund dafür dürften nicht nur Lebensmittelskandale, sondern auch eine Veränderung im Konsumentenbewusstsein sein: Regionalität ist Trumpf, die Herkunft der Waren und vor allem eine artgerechte Tierhaltung werden Verbrauchern immer wichtiger. Denn die konventionelle Tierhaltung gerät immer wieder in der Kritik."
+                "text" : "Neu gekaufte Elektrogeräte gehen schneller kaputt als früher. Außerdem kaufen die Menschen immer öfter neue Geräte, selbst wenn ihre alten noch funktionieren. Das hat eine Untersuchung ergeben. Man hat Menschen danach gefragt, wie lange bestimmte Geräte in ihrem Haushalt funktionieren. Außerdem wurde gefragt, wie oft sich die Menschen neue Geräte kaufen und was die Gründe für den Kauf sind. Es ging vor allem um Fernseher und große Haushaltsgeräte wie Waschmaschinen und Kühlschränke.\nEins der Ergebnisse lautet: Neue Geräte werden nicht so lange mehr genutzt wie früher. Im Jahr 2012 wurden viele Fernseher ersetzt, die nur etwas länger als fünf Jahre in Gebrauch waren. Außerdem wurde über die Hälfte der Fernsehen ersetzt, die nur etwas länger als fünf Jahre in Gebrauch waren. Außerdem wurde über die Hälfte der alten Fernseher ersetzt, weil die Käufer ein neues Modell haben wollten."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, an einer Fahrschule den Führerschein zu machen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Lage\n2) Fahrschulportal\n3) Unterrichtsstechniken\n4) Begleitung von Fahranfängern\n5) Fuhrpark",
+                "title" : "Sie haben beschlossen, den Wasserpark zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Wassertemperatur;\n2) Zahl der Attraktionen;\n3) Familienticket;\n4) Parkplatz.",
                 "picture" : "variant18_2",
-                "question1" : "1) Lage",
-                "question2" : "2) Fahrschulportal",
-                "question3" : "3) Unterrichtsstechniken",
-                "question4" : "4) Begleitung von Fahranfängern",
-                "question5" : "5) Fuhrpark",
-                "pictureText" : "Diese Fahrschule hat nur die besten Lehrer!"
+                "question1" : "1) Wassertemperatur",
+                "question2" : "2) Zahl der Attraktionen",
+                "question3" : "3) Familienticket",
+                "question4" : "4) Parkplatz",
+                "pictureText" : "Ein neuer Wasserpark in unserer Stadt!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant18_3_1",
-                "picture2" : "variant18_3_2",
-                "picture3" : "variant18_3_3"
+                "audioIntroduction" : "variant18_3_introduction",
+                "audioQuestion1" : "variant18_3_question1",
+                "audioQuestion2" : "variant18_3_question2",
+                "audioQuestion3" : "variant18_3_question3",
+                "audioQuestion4" : "variant18_3_question4",
+                "audioQuestion5" : "variant18_3_question5",
+                "audioEnding" : "variant18_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, wo Sie vorziehen zu arbeiten\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Essgewohnheiten“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Gerichte ;\n·sprechen Sie über die Nachteile (1–2) dieser Gerichte;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welche Gerichte Sie bevorzugen und warum?",
                 "picture1" : "variant18_4_1",
                 "picture2" : "variant18_4_2"
             }
@@ -507,27 +561,30 @@
         {
             "variantNumber" : "19",
             "task1" : {
-                "text" : "Rund 11.000 Studenten hat das Deutsche Zentrum für Hochschul- und Wissenschaftsforschung nach ihrer Wohnsituation befragt. Fast 30 Prozent von ihnen gaben an, in einer Wohngemeinschaft zu wohnen. Knapp 20 Prozent leben alleine in einer eigenen Wohnung, etwas weniger bleiben im Elternhaus oder kommen bei Verwandten unter. Nur etwas mehr als ein Zehntel der Studenten lebt im Wohnheim.\nEine Studie zeigt, wie sich die Wohnsituation der Studenten im Laufe des Studiums ändert. Zu Beginn des Studiums wohnt immerhin noch ein Drittel der Studenten bei Verwandten oder Eltern, ihr Anteil sinkt im Verlauf des Studiums. \nDie Wissenschaftler fragten die Studenten auch, wie leicht ihnen die Wohnungssuche fiel. Drei Fünftel der Befragten antworteten, das Finden einer Wohnung zu einem angemessenen Preis sei schwierig oder sehr schwierig."
+                "text" : "Das Wort 'Energie' kommt aus dem Griechischen und bedeutet 'wirkende Kraft' – Energie treibt also etwas an. Allerdings können das ganz unterschiedliche Dinge sein: unser Körper benötigt zum Beispiel Energie, damit er arbeiten und funktionieren kann. Und die Energie bekommt er über die Nahrung in Form von Kalorien.\nAber auch Autos, Maschinen oder Lampen würden ohne Energie nicht funktionieren: Ihre Energielieferanten sind Benzin, Strom, Kohle, Gas oder Erdöl – also Stoffe, mit denen man Wärme und Licht machen oder Motoren antreiben kann.\nDas Problem: Erdöl, Kohle oder Gas sind Bodenschätze und irgendwann verbraucht. Außerdem entstehen bei der Verbrennung von Kohle neben der Energie auch gefährliche Gase, die den Treibhauseffekt verstärken. Wir müssen also alle sparsam mit der Energie sein."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, Ihren Bruder an die Waldorfschule München Südwest zu schicken. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Anmeldeunterlagen\n2) Aufnahmetermine\n3) Zahl der Lehrer\n4) Lage\n5) Abholzeiten im Kindergarten",
+                "title" : "Sie haben beschlossen, sich bei einem Gartenverein anzumelden. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Zahl der Mitglieder;\n2) Lage;\n3) Pflanzen;\n4) Internetseite.",
                 "picture" : "variant19_2",
-                "question1" : "1) Anmeldeunterlagen",
-                "question2" : "2) Aufnahmetermine",
-                "question3" : "3) Zahl der Lehrer",
-                "question4" : "4) Lage",
-                "question5" : "5) Abholzeiten im Kindergarten",
-                "pictureText" : "Ihre Kinder werden es lieben, mit uns zu lernen!"
+                "question1" : "1) Zahl der Mitglieder",
+                "question2" : "2) Lage",
+                "question3" : "3) Pflanzen",
+                "question4" : "4) Internetseite",
+                "pictureText" : "Werden Sie Mitglied unseres Gartenvereins!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant19_3_1",
-                "picture2" : "variant19_3_2",
-                "picture3" : "variant19_3_3"
+                "audioIntroduction" : "variant19_3_introduction",
+                "audioQuestion1" : "variant19_3_question1",
+                "audioQuestion2" : "variant19_3_question2",
+                "audioQuestion3" : "variant19_3_question3",
+                "audioQuestion4" : "variant19_3_question4",
+                "audioQuestion5" : "variant19_3_question5",
+                "audioEnding" : "variant19_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Schulfächer Sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Die beste Zeit mit der Familie“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Familienaktivitäten;\n·sprechen Sie über die Nachteile (1–2) dieser Familienaktivitäten;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, wie Sie als Kind Ihre Freizeit mit der Familie am liebsten verbracht haben und warum?",
                 "picture1" : "variant19_4_1",
                 "picture2" : "variant19_4_2"
             }
@@ -535,27 +592,30 @@
         {
             "variantNumber" : "20",
             "task1" : {
-                "text" : "28.500 Euro - so viel kostet ein dreijähriges Bachelor-Studium im Schnitt. Denn laut Studentenwerk betragen die durchschnittlichen Lebenshaltungskosten eines Vollzeitstudenten monatlich etwa 794 Euro.\nDiese Berechnung enthält die Miete, die Fahrtkosten, Kosten für Ernährung, Kleidung, Lernmittel, Krankenversicherung, Telefon, Internet und Fernsehgebühren sowie Ausgaben für die Freizeitgestaltung. Nicht darin enthalten sind jedoch Studiengebühren, Semesterbeiträge und Verwaltungskosten.\nDie Front der Befürworter von Studiengebühren kippte in den vergangenen Jahren Land für Land. Als letztes Bundesland schaffte Niedersachsen sie zu Beginn des Wintersemesters 2014/2015 ab. Nun gibt es deutschlandweit keine Studiengebühren mehr für Studenten.\nDennoch werden noch immer Stimmen laut, die für eine Wiedereinführung plädieren und dabei auf das amerikanische System verweisen."
+                "text" : "Ein offener Kanal ist ein Fernseh- oder Hörfunkkanal, bei dem jeder mitmachen kann. Sie sind entstanden, als das Kabelfernsehen erfunden wurde. Noch vor etwa 40 Jahren gab es nur drei Programme: ARD, ZDF und das dritte Programm. Die Menschen haben diese Sender über Antenne empfangen. In den 1980ern wurde in Deutschland das Kabelfernsehen entwickelt. Dabei entstanden auch die Offenen Kanäle, die es in vielen großen Städten gibt.\nDer erste Offene Kanal ging 1984 in Ludwigsburg auf Sendung. Wir in Kassel waren der erste Offene Kanal in Hessen. Die Offenen Kanäle haben keine so große Sendereichweite wie zum Beispiel ARD oder ZDF, die du in ganz Deutschland empfangen kannst. Sie sind meistens auf die Städte und das Umland beschränkt, in dem sie senden.\nBei den Offenen Kanälen gibt es alles, was man braucht: die technische Ausrüstung, Studios und Menschen, die du fragen kannst."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, einen  Friseursalon zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Leistungen\n2) Individuelle Beratung\n3) Termin online buchen\n4) Farben-Föhnen: Preis\n5) Sonderangebote",
+                "title" : "Sie haben beschlossen, am Wochenende ins Theater zu gehen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Spielplan;\n2) Aufführungen für Kinder;\n3) bekannte Schauspieler;\n4) Eintrittskarten.",
                 "picture" : "variant20_2",
-                "question1" : "1) Leistungen",
-                "question2" : "2) Individuelle Beratung",
-                "question3" : "3) Termin online buchen",
-                "question4" : "4) Farben-Föhnen: Preis",
-                "question5" : "5) Sonderangebote",
-                "pictureText" : "Die komplexesten Haarschnitte zu günstigen Preisen!"
+                "question1" : "1) Spielplan",
+                "question2" : "2) Aufführungen für Kinder",
+                "question3" : "3) bekannte Schauspieler",
+                "question4" : "4) Eintrittskarten",
+                "pictureText" : "Ein neues Theater in Ihrer Nähe!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant20_3_1",
-                "picture2" : "variant20_3_2",
-                "picture3" : "variant20_3_3"
+                "audioIntroduction" : "variant20_3_introduction",
+                "audioQuestion1" : "variant20_3_question1",
+                "audioQuestion2" : "variant20_3_question2",
+                "audioQuestion3" : "variant20_3_question3",
+                "audioQuestion4" : "variant20_3_question4",
+                "audioQuestion5" : "variant20_3_question5",
+                "audioEnding" : "variant20_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welche Bücher Sie vorziehen würden zu lesen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt „Hobbys“  arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Hobbys;\n·sprechen Sie über die Nachteile (1–2) dieser Hobbys;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welches Hobby Sie bevorzugen und warum?",
                 "picture1" : "variant20_4_1",
                 "picture2" : "variant20_4_2"
             }
@@ -563,27 +623,30 @@
         {
             "variantNumber" : "21",
             "task1" : {
-                "text" : "Integration ist das Wort, das im Zusammenhang mit dem Thema Flüchtlinge die wichtigste Bedeutung hat. Wie kommt man in einem fremden Land an einer fremden Universität zurecht? Denn ohne Deutschkenntnisse und Wissen, wie was warum funktioniert, wird es mit der Integration schwierig. Das trifft natürlich auf alle ausländischen Studierenden zu, in besonderem Maße aber auf Flüchtlinge. Daher haben sich verschiedene Universitäten praktische Lösungen überlegt.\nBis zu 50.000 studierwillige Flüchtlinge kommen an die deutschen Universitäten. An der Universität zu Köln unterstützen internationale Medizinstudierende  andere internationale Studierende. Und das bedeutet vor allem: Sie unterstützen im Alltag, begleiten sie beim Studium. Am Uniklinikum Köln gibt es einen Notfallbereitschaftsplan, um für Flüchtlinge zu übersetzen."
+                "text" : "Sie springen von Autobahnbrücken, surfen durch Flüsse oder hüpfen von Gebäude zu Gebäude. Dass manche den Nervenkitzel  suchen, ist kein Zufall. Es ist ein Persönlichkeitsmerkmal, erklären Sportpsychologen. 20 % der Menschen tragen Gene  in sich, die das Bedürfnis steigern,   sich gefährliche Aktivitäten zu suchen.\nDas bedeutet aber nicht, dass die Extremsportler lebensmüde sind. Man muss überlegt vorgehen, sehr lange planen und trainieren, um einen bestimmten Sprung durchführen zu können. Dabei bleibt das Thema Angst immer dabei. Täglich testet der Extremsportler seine Grenzen aus, um Stück für Stück besser zu werden. Nimmt man sich zu viel vor, kann es passieren, dass der Sportler die Kontrolle verliert und in Panik gerät. Ein erfahrener Sportler kann sich aber auch in brenzligen Situationen beruhigen."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, das Bode-Museum zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) öffentliche Führungen\n2) Highlights der Sammlungen\n3) Führungsdauer\n4) Öffnungszeiten / Wochenende\n5) Ermäßigungen",
+                "title" : "Sie haben beschlossen, die Klinik zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Adresse;\n2) Sprechstunden;\n3) Ärzte;\n4) Preis.",
                 "picture" : "variant21_2",
-                "question1" : "1) öffentliche Führungen",
-                "question2" : "2) Highlights der Sammlungen",
-                "question3" : "3) Führungsdauer",
-                "question4" : "4) Öffnungszeiten / Wochenende",
-                "question5" : "5) Ermäßigungen",
-                "pictureText" : "Das Bode-Museum ist immer für seine Besucher geöffnet."
+                "question1" : "1) Adresse",
+                "question2" : "2) Sprechstunden",
+                "question3" : "3) Ärzte",
+                "question4" : "4) Preis",
+                "pictureText" : "In unserer Klinik bekommen Sie eine individuelle Betreuung!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant21_3_1",
-                "picture2" : "variant21_3_2",
-                "picture3" : "variant21_3_3"
+                "audioIntroduction" : "variant21_3_introduction",
+                "audioQuestion1" : "variant21_3_question1",
+                "audioQuestion2" : "variant21_3_question2",
+                "audioQuestion3" : "variant21_3_question3",
+                "audioQuestion4" : "variant21_3_question4",
+                "audioQuestion5" : "variant21_3_question5",
+                "audioEnding" : "variant21_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welches Hobby Sie vorziehen würden\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt “ Prüfungsvorbereitung“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Arten der Prüfungsvorbereitung;\n·sprechen Sie über die Nachteile (1–2) dieser Arten der Prüfungsvorbereitung;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, ob  Sie sich lieber allein oder in der Gruppe auf die Prüfungen vorbereiten und warum?",
                 "picture1" : "variant21_4_1",
                 "picture2" : "variant21_4_2"
             }
@@ -591,113 +654,32 @@
         {
             "variantNumber" : "22",
             "task1" : {
-                "text" : "213 Kilo Verpackungsmüll kommen auf jeden einzelnen Deutschen. Das sind Zahlen aus dem Jahr 2013 - kleiner ist der Müllberg seither sicher nicht geworden. So viel Müll entsteht, weil die Deutschen sehr gerne ihre Waren im Internet bestellen. Ohne Verpackung lassen sich Waren nicht  transportieren. Verpackungen aus Papier, Pappe oder Karton haben dabei den größten Anteil - über 7 Millionen Tonnen. Hinzu kommen die Verpackungen aus Kunststoffen, Glas und Holz.\nOhne Wiederverwertung  würde man diese Mengen an Abfall nicht bewältigen. Jeder kennt die typischen gelben Tonnen oder Säcke: Hier werden Leichtverpackungen von privaten Verbrauchern gesammelt, sortiert und wiederverwertet. Weißblech, Aluminium, verschiedene Kunststoffarten werden wieder verwendet. Auch Papier und Pappe werden gesammelt und wieder zu Papier verarbeitet."
+                "text" : "Dieser Mann hat vor über 200 Jahren Musik komponiert. Auch heute werden seine Stücke noch gehört und gespielt. Das bekannte Klavierstück „Für Elise‟ ist zum Beispiel von ihm. Es geht um Ludwig van Beethoven.\nBis ins Jahr 1827 hat der Musiker gelebt. Trotzdem erscheint diese Woche ein weiteres Musikstück von ihm. Wie geht das? Geholfen hat künstliche Intelligenz. Musikwissenschaftler und Programmierer haben ganz viele Musikstücke von Beethoven in einen Computer eingegeben. Außerdem fanden sie Noten und Notizen von ihm. So lernte der Computer, wie seine Werke klingen.\nDer Computer hat dann Vorschläge gemacht, wie ein unvollständiges Stück von Beethoven zu Ende gehen könnte. Es handelt sich bei dem Stück also um eine Zusammenarbeit von menschlicher und künstlicher Intelligenz."
             },
             "task2" : {
-                "title" : "Sie haben beschlossen, den Sommersprachkurs Deutsch intensiv zu machen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Dauer\n2) Begleitprogramm\n3) Zahl der Unterrichtsstunden pro Woche\n4) Zertifikat\n5) Konversation mit Muttersprachlern - ja/nein",
+                "title" : "Sie haben beschlossen, den Minigolfclub zu besuchen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1,5 Minuten vier direkte Fragen zu folgenden Stichpunkten:",
+                "questions" : "1) Wettbewerbe;\n2) Kurse für Jugendliche;\n3) Adresse;\n4) Preis der Jahreskarte.",
                 "picture" : "variant22_2",
-                "question1" : "1) Dauer",
-                "question2" : "2) Begleitprogramm",
-                "question3" : "3) Zahl der Unterrichtsstunden pro Woche",
-                "question4" : "4) Zertifikat",
-                "question5" : "5) Konversation mit Muttersprachlern - ja/nein",
-                "pictureText" : "Jetzt sprechen alle diese Leute perfekt Deutsch."
+                "question1" : "1) Wettbewerbe",
+                "question2" : "2) Kurse für Jugendliche",
+                "question3" : "3) Adresse",
+                "question4" : "4) Preis der Jahreskarte",
+                "pictureText" : "Besuchen Sie unseren Minigolfclub!"
             },
             "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant22_3_1",
-                "picture2" : "variant22_3_2",
-                "picture3" : "variant22_3_3"
+                "audioIntroduction" : "variant22_3_introduction",
+                "audioQuestion1" : "variant22_3_question1",
+                "audioQuestion2" : "variant22_3_question2",
+                "audioQuestion3" : "variant22_3_question3",
+                "audioQuestion4" : "variant22_3_question4",
+                "audioQuestion5" : "variant22_3_question5",
+                "audioEnding" : "variant22_3_ending"
             },
             "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welchen Sport Sie vorziehen\n· erklären Sie, warum",
+                "title" : "Stellen Sie sich vor, dass  Sie und Ihr Freund / Ihre Freundin zusammen am Schulprojekt “Essgewohnheiten“ arbeiten. Sie haben einige Fotos für das Projekt gefunden und möchten ihrem Freund / ihrer Freundin darüber erzählen. Nehmen Sie eine Sprachnachricht auf. Sie haben 2,5 Minuten für die Vorbereitung und anschließend:",
+                "questions" : "·begründen Sie die Wahl der Fotos für das Projekt, indem Sie diese Fotos kurz beschreiben und auf relevante Unterschiede beider Fotos hinweisen;\n·sprechen Sie über die Vorteile (1–2) der abgebildeten Gerichte;\n·sprechen Sie über die Nachteile (1–2) dieser Gerichte;\n·nehmen Sie Stellung zum Thema des Projektes – sagen Sie, welches von den auf den Bildern dargestellten Gerichten Sie bevorzugen und warum?",
                 "picture1" : "variant22_4_1",
                 "picture2" : "variant22_4_2"
-            }
-        },
-        {
-            "variantNumber" : "23",
-            "task1" : {
-                "text" : "Yoga, Rhetorik, Acrylmalerei, Computerprogramme, Spanisch, Kochen, Naturheilkunde, Existenzgründung … die Liste der Kurse lässt sich fast endlos lange fortsetzen - beinahe alles, was sich zur Weiterbildung eignet, bieten die Volkshochschulen an. Ganz oben auf der Liste: Deutschkurse.\nBeispiel Berlin: Ein allgemeiner Integrationskurs besteht hier aus 660 Unterrichtsstunden. Davon sind 600 Stunden Sprachunterricht und 60 Stunden Orientierungskurs. Am Ende erfolgt eine kostenlose Abschlussprüfung. Der Orientierungskurs vermittelt Wissen über das deutsche Rechtssystem, die Kultur und die jüngere Geschichte Deutschlands. Hinzu kommen spezielle Integrationskurse, zum Beispiel für Frauen, Jugendliche, Migrantinnen und Migranten mit „Alphabetisierungsbedarf“, wie es offiziell heißt. Das sind Kurse, in denen man überhaupt erst lesen und schreiben lernt."
-            },
-            "task2" : {
-                "title" : "Sie haben beschlossen, eine Radreise zu unternehmen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Reisetermine\n2) Preis\n3) Unterkunft\n4) Streckencharakter\n5) Verlängerung",
-                "picture" : "variant23_2",
-                "question1" : "1) Reisetermine",
-                "question2" : "2) Preis",
-                "question3" : "3) Unterkunft",
-                "question4" : "4) Streckencharakter",
-                "question5" : "5) Verlängerung",
-                "pictureText" : "Eine Radreise wie diese haben Sie sicher noch nie erlebt!"
-            },
-            "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant23_3_1",
-                "picture2" : "variant23_3_2",
-                "picture3" : "variant23_3_3"
-            },
-            "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, welchen Ballsport Sie vorziehen würden\n· erklären Sie, warum",
-                "picture1" : "variant23_4_1",
-                "picture2" : "variant23_4_2"
-            }
-        },
-        {
-            "variantNumber" : "24",
-            "task1" : {
-                "text" : "2014 feierte es seinen 100. Geburtstag: Das bekannteste und vielleicht deutscheste aller Gesellschaftsspiele namens „Mensch ärgere Dich nicht“ fehlt in wohl keinem deutschen Haushalt. 90 Millionen Exemplare sind seit den Anfängen verkauft worden. Der Münchner Händler Joseph Friedrich Schmidt hat es selber aus Karton gebastelt und gemalt, um seine beiden lebhaften Kinder zu beschäftigen.\nDas Ziel des Spieles ist, als erster seine vier Spielfiguren ins Ziel zu bringen. Man darf andere Spieler aus ihrer Position „herausschmeißen“, wenn sie im Weg stehen. Diese müssen dann wieder von vorne beginnen und ärgern sich natürlich maßlos. Das Spiel ist deshalb so bekannt geworden, weil Herr Schmidt eine geniale Idee hatte: 3.000 Exemplare von „Mensch ärgere Dich nicht“ schickte er 1914, als gerade der Erste Weltkrieg tobte, als Sachspende an die Lazarette."
-            },
-            "task2" : {
-                "title" : "Sie haben beschlossen, sich ein Auto zu mieten. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Lage\n2) Angebot von Mietwagen\n3) Preis\n4) Buchung online\n5) Ort der Rückgabe",
-                "picture" : "variant24_2",
-                "question1" : "1) Lage",
-                "question2" : "2) Angebot von Mietwagen",
-                "question3" : "3) Preis",
-                "question4" : "4) Buchung online",
-                "question5" : "5) Ort der Rückgabe",
-                "pictureText" : "Sie haben noch nie so tolle Autos zu einem erschwinglichen Preis gesehen."
-            },
-            "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant24_3_1",
-                "picture2" : "variant24_3_2",
-                "picture3" : "variant24_3_3"
-            },
-            "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, wo Sie vorziehen zu essen\n· erklären Sie, warum",
-                "picture1" : "variant24_4_1",
-                "picture2" : "variant24_4_2"
-            }
-        },
-        {
-            "variantNumber" : "25",
-            "task1" : {
-                "text" : "Das Sturmtief namens Niklas hat Ende März 2015 alle Rekorde gebrochen, als es über Deutschland fegte: Die Windkraftanlagen produzierten Strom in dieser Zeit mit über 30 Gigawatt (30.000 Megawatt - MW) Leistung. Zum Vergleich: Deutschland braucht insgesamt eine elektrische Leistung von rund 60 bis 80 Gigawatt täglich. \nDoch auch wenn Niklas für Rekorde sorgte, speichern lässt sich die gewonnene Energie (noch) nicht auf Dauer. Allerdings arbeiten Forscher und Ingenieure mit Hochdruck daran. Im Norden Deutschlands, im Bundesland Brandenburg, gibt es zum Beispiel eine Versuchsanlage, in der überschüssiger Strom aus dem Windpark dazu genutzt wird, Wasser in Wasser- und Sauerstoff aufzuspalten. Wasserstoff lässt sich speichern und kann dann nach Bedarf verbrannt und wieder zur Strom- und Wärmeerzeugung verwendet werden."
-            },
-            "task2" : {
-                "title" : "Sie haben beschlossen, eine Europareise zu unternehmen. Sie möchten aber gern mehr darüber wissen. Überlegen Sie innerhalb von 1.5 Minuten 5 direkte Fragen zu den folgenden Stichpunkten:",
-                "questions" : "1) Öffnungszeiten\n2) Zahlungsmittel\n3) Touren\n4) Ermäßigungen für Studenten\n5) Newsletter abonnieren",
-                "picture" : "variant25_2",
-                "question1" : "1) Öffnungszeiten",
-                "question2" : "2) Zahlungsmittel",
-                "question3" : "3) Touren",
-                "question4" : "4) Ermäßigungen für Studenten",
-                "question5" : "5) Newsletter abonnieren",
-                "pictureText" : "Europareise? Dann sind Sie bei uns genau richtig!"
-            },
-            "task3" : {
-                "questions" : "· wann und wo wurde das Foto gemacht \n· was oder wen zeigt das Foto \n· was passiert da gerade \n· warum bewahren Sie das Foto in Ihrem Fotoalbum auf \n· warum haben Sie beschlossen, das Foto Ihrem Freund/Ihrer Freundin zu zeigen",
-                "picture1" : "variant25_3_1",
-                "picture2" : "variant25_3_2",
-                "picture3" : "variant25_3_3"
-            },
-            "task4" : {
-                "questions" : "· beschreiben Sie kurz beide Fotos\n· sagen Sie, was beide Fotos gemeinsam haben\n· sprechen Sie darüber, was beide Fotos unterscheidet\n· sagen Sie, wie Sie vorziehen, den Urlaub zu verbringen\n· erklären Sie, warum",
-                "picture1" : "variant25_4_1",
-                "picture2" : "variant25_4_2"
             }
         }
     ]

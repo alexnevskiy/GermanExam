@@ -134,11 +134,16 @@
                 android:orientation="vertical"
                 android:layout_weight="1">
 
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
                 <TextView
                     android:id="@+id/task2_questions"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
-                    android:layout_weight="1"
+                    android:layout_weight="3.5"
                     android:text="@string/task2_questions"
                     android:fontFamily="@font/calibri"
                     app:autoSizeMaxTextSize="40sp"
@@ -150,7 +155,7 @@
                     android:id="@+id/task2_ask"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
-                    android:layout_weight="1"
+                    android:layout_weight="3.5"
                     android:text="@string/task2_ask"
                     android:fontFamily="@font/calibrib"
                     app:autoSizeMaxTextSize="25sp"
